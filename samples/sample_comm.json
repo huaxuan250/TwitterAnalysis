@@ -1,0 +1,24 @@
+{
+    "user": "metal_gear",
+    "sentiments": {
+        "anger": 78,
+        "sorrow": 15,
+        "joy": 7
+    },
+    "times": [
+        "early morning",
+        "early afternoon",
+        "late night"
+    ],
+    "locations": [
+        "Home",
+        "Work"
+    ],
+    "most interacted": "senator_armstrong",
+    "interests": {
+        "sports": 12,
+        "food": 32,
+        "politics": 108
+    },
+    "longest follower": "moreplatesmoredates"
+}

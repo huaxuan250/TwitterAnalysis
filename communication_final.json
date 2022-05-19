@@ -1,0 +1,69 @@
+{
+    "topic_engagement": {
+        "TV Channels": 6,
+        "Brand": 338212,
+        "TV Shows": 209376,
+        "Sports Event": 262532,
+        "Person": 171965,
+        "Sport": 290163,
+        "Sports Team": 112179,
+        "Sports League": 270959,
+        "Basketball Game": 94328,
+        "Athlete": 145892,
+        "Local News": 13018,
+        "Hockey Game": 23834,
+        "States": 14207,
+        "Coach": 16065,
+        "Ongoing News Story": 3933,
+        "Cities": 893,
+        "Sports Personality": 72692,
+        "Holiday": 5523,
+        "TV Episodes": 822,
+        "Baseball Game": 7503,
+        "Global TV Show": 4820
+    },
+    "most_positive_tweet": "Happy Mother's Day \u2764\ufe0f https://t.co/zRSoSmZSLf",
+    "most_negative_tweet": "AL HORFORD SLAM OVER GIANNIS \ud83d\ude33\n\n(via @NBA)\nhttps://t.co/Pcg3b52AeH",
+    "time_engagement": {
+        "17": 7493,
+        "16": 6110,
+        "14": 1206,
+        "4": 25339,
+        "3": 47711,
+        "2": 23115,
+        "1": 9444,
+        "0": 14820,
+        "23": 16588,
+        "18": 28611,
+        "15": 15448,
+        "13": 19105,
+        "12": 58681,
+        "22": 32937,
+        "21": 10040,
+        "20": 6951,
+        "19": 2299,
+        "5": 12314
+    },
+    "sentiments": {
+        "joy": 54,
+        "anger": 21,
+        "fear": 5
+    },
+    "active_hours": {
+        "17": 15,
+        "04": 9,
+        "00": 8
+    },
+    "top_interests": {
+        "Brand": 338212,
+        "Sport": 290163,
+        "Sports League": 270959
+    },
+    "longest_follower": {
+        "created_at": "2022-05-10T17:07:02.000Z",
+        "id": "1524072825820229633",
+        "name": "Carlos van Tonder",
+        "username": "VanZepler27"
+    },
+    "most_popular_tweet": "1523645250652233728"
+}
