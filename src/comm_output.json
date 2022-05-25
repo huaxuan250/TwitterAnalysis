@@ -1,0 +1,677 @@
+{
+    "topic_engagement": {
+        "Person": 193759,
+        "Brand": 336388,
+        "Athlete": 175090,
+        "Sports Personality": 68707,
+        "TV Shows": 251751,
+        "Sport": 287851,
+        "Sports Team": 108593,
+        "Sports League": 275875,
+        "Cities": 5155,
+        "Sports Event": 227088,
+        "Hockey Game": 30516,
+        "Basketball Game": 80600,
+        "Movie": 98,
+        "Journalist": 2245,
+        "Baseball Game": 20911,
+        "Ongoing News Story": 4524,
+        "States": 22443,
+        "Soccer Match": 2186,
+        "TV Channels": 73,
+        "Local News": 1316,
+        "Coach": 16889,
+        "Holiday": 1002
+    },
+    "most_positive_tweet": "1524531514272329733",
+    "most_negative_tweet": "1523840462943145985",
+    "time_engagement": {
+        "night": 131713,
+        "early morning": 0,
+        "late morning": 0,
+        "early afternoon": 64535,
+        "late afternoon": 17205,
+        "early evening": 47305,
+        "late evening": 75630
+    },
+    "sentiments": {
+        "joy": 54,
+        "anger": 22,
+        "fear": 9
+    },
+    "active_hours": {
+        "17": 10,
+        "18": 10,
+        "02": 8
+    },
+    "top_interests": {
+        "Brand": 336388,
+        "Sport": 287851,
+        "Sports League": 275875
+    },
+    "most_interacted_user": [
+        "3045521913"
+    ],
+    "longest_follower": {
+        "created_at": "2022-05-12T16:51:50.000Z",
+        "id": "1524794435132858368",
+        "name": "MASEPHAPHA",
+        "username": "MASEPHAPHA1"
+    },
+    "most_popular_tweet": "1523645250652233728",
+    "overall_compound_score": 0.008701086956521739,
+    "polarity_count": {
+        "positive tweets": 26,
+        "negative tweets": 25,
+        "netural tweets": 41
+    },
+    "top_3_tweets": [
+        "1523427342991134720",
+        "1524147791228022785",
+        "1523645250652233728"
+    ],
+    "newest_10_followers": [
+        {
+            "created_at": "2020-10-27T13:49:43.000Z",
+            "id": "1321086604149141504",
+            "name": "not.officially.samuel",
+            "username": "theone_samuel"
+        },
+        {
+            "created_at": "2021-06-22T16:26:02.000Z",
+            "id": "1407374283043749903",
+            "name": "Kesean",
+            "username": "therealseann_"
+        },
+        {
+            "created_at": "2022-05-12T17:09:34.000Z",
+            "id": "1524798912879640579",
+            "name": "Ricky",
+            "username": "Ricky50585764"
+        },
+        {
+            "created_at": "2012-10-07T06:36:57.000Z",
+            "id": "865876501",
+            "name": "Ajay Gangwar",
+            "username": "_This_IS_AjAy_"
+        },
+        {
+            "created_at": "2022-05-12T17:00:50.000Z",
+            "id": "1524796695779110912",
+            "name": "Ja",
+            "username": "JaJa95594734"
+        },
+        {
+            "created_at": "2019-03-03T05:48:38.000Z",
+            "id": "1102083339362553856",
+            "name": "MaFer",
+            "username": "MaFer89818798"
+        },
+        {
+            "created_at": "2022-05-12T17:06:09.000Z",
+            "id": "1524797835518132224",
+            "name": "Coltin",
+            "username": "Coltin00377145"
+        },
+        {
+            "created_at": "2022-05-12T17:07:16.000Z",
+            "id": "1524798225495908366",
+            "name": "Da615253728262",
+            "username": "da615253728262"
+        },
+        {
+            "created_at": "2022-05-12T17:06:12.000Z",
+            "id": "1524797925720993792",
+            "name": "Somnath Das",
+            "username": "dassomnath93"
+        },
+        {
+            "created_at": "2022-05-12T16:57:40.000Z",
+            "id": "1524795854581792774",
+            "name": "Chelsea Comtois",
+            "username": "ComtoisChelsea"
+        },
+        {
+            "created_at": "2022-05-12T17:08:48.000Z",
+            "id": "1524798676039704576",
+            "name": "Dylan Alfaro",
+            "username": "DylanAl19952132"
+        },
+        {
+            "created_at": "2022-05-02T19:04:17.000Z",
+            "id": "1521203836416835584",
+            "name": "CBK Lucas",
+            "username": "CBK_Lucas"
+        },
+        {
+            "created_at": "2022-05-12T17:08:11.000Z",
+            "id": "1524798185398484992",
+            "name": "daniel hall",
+            "username": "danielh78700312"
+        },
+        {
+            "created_at": "2022-05-12T17:00:15.000Z",
+            "id": "1524796583514099713",
+            "name": "Cornelius Buford",
+            "username": "CBuford69"
+        },
+        {
+            "created_at": "2022-04-25T19:06:57.000Z",
+            "id": "1518667733344337921",
+            "name": "Sparker Jr.",
+            "username": "JrSparker"
+        },
+        {
+            "created_at": "2022-05-12T17:02:44.000Z",
+            "id": "1524797043864403968",
+            "name": "Rejoan Official",
+            "username": "OfficialRejoan"
+        },
+        {
+            "created_at": "2022-05-12T17:02:35.000Z",
+            "id": "1524797122398367745",
+            "name": "Dale Dickerson",
+            "username": "Dal3dick3rson"
+        },
+        {
+            "created_at": "2022-05-12T17:07:24.000Z",
+            "id": "1524798318789812230",
+            "name": "Yeattwiz7559964",
+            "username": "yeattwiz7559962"
+        },
+        {
+            "created_at": "2021-02-03T20:36:52.000Z",
+            "id": "1357065425281024000",
+            "name": "Eazy",
+            "username": "JamesJo63557928"
+        },
+        {
+            "created_at": "2022-05-12T17:07:12.000Z",
+            "id": "1524798327082172418",
+            "name": "Rena Ismayilova",
+            "username": "RenaIsmayilova9"
+        },
+        {
+            "created_at": "2022-05-12T17:03:14.000Z",
+            "id": "1524797189616283650",
+            "name": "ASHLEE MCCORMICK",
+            "username": "CoachAMcCormick"
+        },
+        {
+            "created_at": "2022-05-12T17:05:02.000Z",
+            "id": "1524797775552077826",
+            "name": "snoopy",
+            "username": "yacinzerrari"
+        },
+        {
+            "created_at": "2022-05-12T17:01:52.000Z",
+            "id": "1524796913090015238",
+            "name": "Renan Rios",
+            "username": "Renantog"
+        },
+        {
+            "created_at": "2022-05-12T17:07:13.000Z",
+            "id": "1524798241610555394",
+            "name": "Vega Bros",
+            "username": "VegaBros507"
+        },
+        {
+            "created_at": "2022-05-12T17:07:11.000Z",
+            "id": "1524798307242999809",
+            "name": "Joe",
+            "username": "Joe96613330"
+        },
+        {
+            "created_at": "2022-05-12T17:05:56.000Z",
+            "id": "1524797962123091971",
+            "name": "Chris Nuzzo",
+            "username": "nuzzalini"
+        },
+        {
+            "created_at": "2022-05-12T17:03:46.000Z",
+            "id": "1524797448627044357",
+            "name": "Tim Ruins",
+            "username": "tim_ruins"
+        },
+        {
+            "created_at": "2022-05-12T16:57:45.000Z",
+            "id": "1524795681629736966",
+            "name": "Wisdom Biddah",
+            "username": "wisdom_biddah"
+        },
+        {
+            "created_at": "2022-05-12T17:05:47.000Z",
+            "id": "1524797937544577035",
+            "name": "Joshua",
+            "username": "Joshua22471764"
+        },
+        {
+            "created_at": "2022-05-12T17:02:18.000Z",
+            "id": "1524797048675090432",
+            "name": "Elijah",
+            "username": "Curlyheadeli9"
+        },
+        {
+            "created_at": "2022-05-12T17:02:24.000Z",
+            "id": "1524797034259161091",
+            "name": "nnaocha maxpeter",
+            "username": "maxpeter_n"
+        },
+        {
+            "created_at": "2022-05-12T16:24:51.000Z",
+            "id": "1524787573549420546",
+            "name": "Sarah Leach",
+            "username": "SarahLeleach"
+        },
+        {
+            "created_at": "2011-11-14T06:36:05.000Z",
+            "id": "412057510",
+            "name": "Internet Ref",
+            "username": "Internet_Ref"
+        },
+        {
+            "created_at": "2022-05-12T17:04:27.000Z",
+            "id": "1524797587240456192",
+            "name": "Trent",
+            "username": "Trent45985843"
+        },
+        {
+            "created_at": "2022-05-12T17:06:26.000Z",
+            "id": "1524798109418545167",
+            "name": "Sportspage Bar",
+            "username": "SportspageB"
+        },
+        {
+            "created_at": "2022-05-12T17:00:22.000Z",
+            "id": "1524796494834016257",
+            "name": "travis dean",
+            "username": "rizingworrior"
+        },
+        {
+            "created_at": "2022-05-12T16:57:04.000Z",
+            "id": "1524795733127225358",
+            "name": "Need??!",
+            "username": "Zneeddd"
+        },
+        {
+            "created_at": "2022-05-12T17:04:32.000Z",
+            "id": "1524797652784881664",
+            "name": "Ethan",
+            "username": "readyforfun420"
+        },
+        {
+            "created_at": "2022-05-12T17:05:01.000Z",
+            "id": "1524797769944276993",
+            "name": "tisoforohofec03",
+            "username": "tisoforohofec03"
+        },
+        {
+            "created_at": "2022-05-12T16:50:17.000Z",
+            "id": "1524793947473731585",
+            "name": "Riana Nandrianina",
+            "username": "RianaNandriani5"
+        },
+        {
+            "created_at": "2022-05-12T17:04:58.000Z",
+            "id": "1524797760947556352",
+            "name": "Chattanooga Vol",
+            "username": "ChattVol02"
+        },
+        {
+            "created_at": "2022-05-12T16:55:45.000Z",
+            "id": "1524795444588646402",
+            "name": "Dakota Smith",
+            "username": "Kota2199"
+        },
+        {
+            "created_at": "2022-05-12T17:02:21.000Z",
+            "id": "1524797080967032833",
+            "name": "Christopher Bauza",
+            "username": "cb1498"
+        },
+        {
+            "created_at": "2022-05-06T02:58:53.000Z",
+            "id": "1522410491468869632",
+            "name": "Louis \u9ec4",
+            "username": "LouisShelbyH"
+        },
+        {
+            "created_at": "2022-05-12T17:05:37.000Z",
+            "id": "1524797874151751680",
+            "name": "Sam",
+            "username": "Sam07149779"
+        },
+        {
+            "created_at": "2022-05-12T16:47:57.000Z",
+            "id": "1524793465401397252",
+            "name": "Martin Salvador",
+            "username": "MartinTriple6"
+        },
+        {
+            "created_at": "2022-05-12T17:04:53.000Z",
+            "id": "1524797704638955520",
+            "name": "Broken Ambrose",
+            "username": "AmbroseBroken"
+        },
+        {
+            "created_at": "2022-05-12T16:52:26.000Z",
+            "id": "1524794542507102208",
+            "name": "Sidick Jibril",
+            "username": "JibrilKuri"
+        },
+        {
+            "created_at": "2022-05-12T17:04:37.000Z",
+            "id": "1524797535994388483",
+            "name": "WORD",
+            "username": "WORD20781452"
+        },
+        {
+            "created_at": "2022-05-12T16:54:55.000Z",
+            "id": "1524795115247525897",
+            "name": "Mohd zuhkafali Masran",
+            "username": "mohd_zuhkafali"
+        },
+        {
+            "created_at": "2016-03-09T17:00:10.000Z",
+            "id": "707611950180651008",
+            "name": "Yasir Arfat",
+            "username": "Yasich090"
+        },
+        {
+            "created_at": "2022-05-12T17:04:42.000Z",
+            "id": "1524797648149962752",
+            "name": "Nikesh Joshi",
+            "username": "NikeshJoshi12"
+        },
+        {
+            "created_at": "2022-05-12T16:43:31.000Z",
+            "id": "1524792366237818884",
+            "name": "Tamara Childress",
+            "username": "Ta_ma_ra_76"
+        },
+        {
+            "created_at": "2022-05-12T16:58:09.000Z",
+            "id": "1524795846486896641",
+            "name": "Philemon Alves",
+            "username": "PhilemonAlves"
+        },
+        {
+            "created_at": "2022-05-12T17:03:45.000Z",
+            "id": "1524797446701850625",
+            "name": "Dariel Gomez",
+            "username": "cbgdarirl"
+        },
+        {
+            "created_at": "2022-05-12T17:04:00.000Z",
+            "id": "1524797461839376384",
+            "name": "Mhd Azr",
+            "username": "Azr7Mhd"
+        },
+        {
+            "created_at": "2022-05-12T17:04:10.000Z",
+            "id": "1524797559440560129",
+            "name": "\u0645\u062d\u0645\u0648\u062f \u0645\u062d\u0645\u062f",
+            "username": "mhmwdmh22544974"
+        },
+        {
+            "created_at": "2022-05-12T16:55:51.000Z",
+            "id": "1524795250400804864",
+            "name": "Sureshkumarmahi Mahi",
+            "username": "Sureshk36451268"
+        },
+        {
+            "created_at": "2022-05-12T17:01:54.000Z",
+            "id": "1524796815601721344",
+            "name": "Tiffany Wong",
+            "username": "Ilove_funyuns"
+        },
+        {
+            "created_at": "2022-05-12T17:01:20.000Z",
+            "id": "1524796829124026380",
+            "name": "Garret Hoover",
+            "username": "garhoov"
+        },
+        {
+            "created_at": "2022-05-12T16:59:07.000Z",
+            "id": "1524796170358358016",
+            "name": "Nchagwa Mwita",
+            "username": "NchagwaMwita1"
+        },
+        {
+            "created_at": "2022-05-12T17:02:53.000Z",
+            "id": "1524797223917084674",
+            "name": "\u94b1\u6d9b",
+            "username": "CRISPRaYeast"
+        },
+        {
+            "created_at": "2022-05-12T16:59:39.000Z",
+            "id": "1524796192189734912",
+            "name": "Richard Thurlo",
+            "username": "RichardThurlo"
+        },
+        {
+            "created_at": "2022-05-12T17:01:47.000Z",
+            "id": "1524796917179244555",
+            "name": "sparta",
+            "username": "sparta53913304"
+        },
+        {
+            "created_at": "2022-05-10T16:56:49.000Z",
+            "id": "1524070883698130945",
+            "name": "yellow-brown baddies",
+            "username": "XXXloverlane"
+        },
+        {
+            "created_at": "2022-01-25T23:15:57.000Z",
+            "id": "1486115603098357764",
+            "name": "Gio Garcia",
+            "username": "chichiFire03"
+        },
+        {
+            "created_at": "2022-05-12T17:02:57.000Z",
+            "id": "1524797232830201856",
+            "name": "Ryder Weisert",
+            "username": "bigbeefyhitler"
+        },
+        {
+            "created_at": "2022-05-12T16:27:59.000Z",
+            "id": "1524788387831422984",
+            "name": "Abraham III Mari",
+            "username": "AimSmallAbBeIII"
+        },
+        {
+            "created_at": "2022-05-12T16:56:40.000Z",
+            "id": "1524795624830427136",
+            "name": "Senovia Galbiati",
+            "username": "SenoviaGalbiati"
+        },
+        {
+            "created_at": "2022-05-12T12:51:48.000Z",
+            "id": "1524734016053821440",
+            "name": "Allan Rodrigo Barrientos Hernandez",
+            "username": "AllanRodrigoBa7"
+        },
+        {
+            "created_at": "2022-05-12T17:02:12.000Z",
+            "id": "1524797041632845824",
+            "name": "Jesus Martinez",
+            "username": "Jesus_Mtzzzzzz"
+        },
+        {
+            "created_at": "2022-05-12T16:57:56.000Z",
+            "id": "1524795990288506882",
+            "name": "Orlandocityinsider",
+            "username": "OCSCinsider"
+        },
+        {
+            "created_at": "2022-05-12T17:02:32.000Z",
+            "id": "1524797116891152384",
+            "name": "Carson Pelletier",
+            "username": "CarsonPelletie3"
+        },
+        {
+            "created_at": "2022-05-12T17:01:59.000Z",
+            "id": "1524796936007688192",
+            "name": "Mihoubi Lamine",
+            "username": "MihoubiLamine"
+        },
+        {
+            "created_at": "2022-05-12T17:03:07.000Z",
+            "id": "1524797277746782210",
+            "name": "sebastian storch",
+            "username": "sebastianstorc3"
+        },
+        {
+            "created_at": "2022-05-12T16:59:05.000Z",
+            "id": "1524796195826065409",
+            "name": "Mahfuzur Rahman Maruf",
+            "username": "Mahfuzu86991123"
+        },
+        {
+            "created_at": "2022-05-12T16:58:07.000Z",
+            "id": "1524795837792002048",
+            "name": "Marco Marco",
+            "username": "NHCMARCO"
+        },
+        {
+            "created_at": "2022-05-12T17:00:06.000Z",
+            "id": "1524796509123923968",
+            "name": "Jeremy Kinuthia",
+            "username": "twizlerkid"
+        },
+        {
+            "created_at": "2022-05-12T16:58:35.000Z",
+            "id": "1524796108983218183",
+            "name": "laurenw306",
+            "username": "lwhiteatc"
+        },
+        {
+            "created_at": "2022-05-12T17:01:09.000Z",
+            "id": "1524796461233233920",
+            "name": "retgog",
+            "username": "retgog1"
+        },
+        {
+            "created_at": "2022-05-10T02:04:21.000Z",
+            "id": "1523846332527505408",
+            "name": "Bob",
+            "username": "Bob38507648"
+        },
+        {
+            "created_at": "2022-05-12T16:56:29.000Z",
+            "id": "1524795590588174337",
+            "name": "Darren J Lindsay",
+            "username": "myfraimeofmind"
+        },
+        {
+            "created_at": "2022-05-11T04:26:35.000Z",
+            "id": "1524244503321743360",
+            "name": "xingye",
+            "username": "xingye449501992"
+        },
+        {
+            "created_at": "2022-05-12T16:52:42.000Z",
+            "id": "1524793785640624128",
+            "name": "Fablegas Ug",
+            "username": "FablegasU"
+        },
+        {
+            "created_at": "2022-05-12T17:02:19.000Z",
+            "id": "1524797096406048768",
+            "name": "Testingkk",
+            "username": "Testingkk22"
+        },
+        {
+            "created_at": "2022-05-12T16:58:20.000Z",
+            "id": "1524796072572248064",
+            "name": "TJ Macapagal",
+            "username": "JMAC_401"
+        },
+        {
+            "created_at": "2022-05-12T16:47:33.000Z",
+            "id": "1524792923820204045",
+            "name": "Anson Ram\u00edrez",
+            "username": "AnsonRamirez"
+        },
+        {
+            "created_at": "2022-05-12T17:01:31.000Z",
+            "id": "1524796771288989696",
+            "name": "Liron Perrimond-Sayan",
+            "username": "LPSwatches"
+        },
+        {
+            "created_at": "2022-05-12T16:54:40.000Z",
+            "id": "1524795072432193537",
+            "name": "Christine",
+            "username": "Christi70038717"
+        },
+        {
+            "created_at": "2022-05-12T16:51:50.000Z",
+            "id": "1524794435132858368",
+            "name": "MASEPHAPHA",
+            "username": "MASEPHAPHA1"
+        }
+    ],
+    "oldest_10_followers": [
+        {
+            "created_at": "2022-05-10T02:04:21.000Z",
+            "id": "1523846332527505408",
+            "name": "Bob",
+            "username": "Bob38507648"
+        },
+        {
+            "created_at": "2022-05-12T16:56:29.000Z",
+            "id": "1524795590588174337",
+            "name": "Darren J Lindsay",
+            "username": "myfraimeofmind"
+        },
+        {
+            "created_at": "2022-05-11T04:26:35.000Z",
+            "id": "1524244503321743360",
+            "name": "xingye",
+            "username": "xingye449501992"
+        },
+        {
+            "created_at": "2022-05-12T16:52:42.000Z",
+            "id": "1524793785640624128",
+            "name": "Fablegas Ug",
+            "username": "FablegasU"
+        },
+        {
+            "created_at": "2022-05-12T17:02:19.000Z",
+            "id": "1524797096406048768",
+            "name": "Testingkk",
+            "username": "Testingkk22"
+        },
+        {
+            "created_at": "2022-05-12T16:58:20.000Z",
+            "id": "1524796072572248064",
+            "name": "TJ Macapagal",
+            "username": "JMAC_401"
+        },
+        {
+            "created_at": "2022-05-12T16:47:33.000Z",
+            "id": "1524792923820204045",
+            "name": "Anson Ram\u00edrez",
+            "username": "AnsonRamirez"
+        },
+        {
+            "created_at": "2022-05-12T17:01:31.000Z",
+            "id": "1524796771288989696",
+            "name": "Liron Perrimond-Sayan",
+            "username": "LPSwatches"
+        },
+        {
+            "created_at": "2022-05-12T16:54:40.000Z",
+            "id": "1524795072432193537",
+            "name": "Christine",
+            "username": "Christi70038717"
+        },
+        {
+            "created_at": "2022-05-12T16:51:50.000Z",
+            "id": "1524794435132858368",
+            "name": "MASEPHAPHA",
+            "username": "MASEPHAPHA1"
+        }
+    ]
+}
