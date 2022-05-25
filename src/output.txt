@@ -1,0 +1,5596 @@
+200
+200
+200
+200
+200
+{
+    "followers": [
+        {
+            "created_at": "2022-05-12T17:09:55.000Z",
+            "id": "1524798931355545601",
+            "name": "CJ Petty's",
+            "username": "CJPettys1"
+        },
+        {
+            "created_at": "2022-05-12T17:09:31.000Z",
+            "id": "1524798901630517252",
+            "name": "Gefar",
+            "username": "Gefar95203506"
+        },
+        {
+            "created_at": "2022-05-12T17:09:32.000Z",
+            "id": "1524798863244148745",
+            "name": "RODRIGO SILVA",
+            "username": "RODRIGO07375351"
+        },
+        {
+            "created_at": "2022-05-03T22:17:20.000Z",
+            "id": "1521614863843397636",
+            "name": "Jupiter Hexenson",
+            "username": "jupiterdajester"
+        },
+        {
+            "created_at": "2022-05-12T17:09:29.000Z",
+            "id": "1524798876833677312",
+            "name": "Doccy",
+            "username": "Doccy57092499"
+        },
+        {
+            "created_at": "2022-05-12T17:09:40.000Z",
+            "id": "1524798945209229315",
+            "name": "Alessio 0031",
+            "username": "0031Alessio"
+        },
+        {
+            "created_at": "2022-05-12T17:05:16.000Z",
+            "id": "1524797796112531456",
+            "name": "Ibrahim",
+            "username": "Ibrahim67788981"
+        },
+        {
+            "created_at": "2022-05-12T17:08:47.000Z",
+            "id": "1524798674269659138",
+            "name": "Nigger",
+            "username": "Nigger63591229"
+        },
+        {
+            "created_at": "2022-05-12T17:06:46.000Z",
+            "id": "1524798178607828992",
+            "name": "R",
+            "username": "R42484186"
+        },
+        {
+            "created_at": "2022-05-12T17:09:20.000Z",
+            "id": "1524798827865284610",
+            "name": "Dominique Henderson",
+            "username": "Driptoohawd273"
+        },
+        {
+            "created_at": "2020-10-27T13:49:43.000Z",
+            "id": "1321086604149141504",
+            "name": "not.officially.samuel",
+            "username": "theone_samuel"
+        },
+        {
+            "created_at": "2021-06-22T16:26:02.000Z",
+            "id": "1407374283043749903",
+            "name": "Kesean",
+            "username": "therealseann_"
+        },
+        {
+            "created_at": "2022-05-12T17:09:34.000Z",
+            "id": "1524798912879640579",
+            "name": "Ricky",
+            "username": "Ricky50585764"
+        },
+        {
+            "created_at": "2012-10-07T06:36:57.000Z",
+            "id": "865876501",
+            "name": "Ajay Gangwar",
+            "username": "_This_IS_AjAy_"
+        },
+        {
+            "created_at": "2022-05-12T17:00:50.000Z",
+            "id": "1524796695779110912",
+            "name": "Ja",
+            "username": "JaJa95594734"
+        },
+        {
+            "created_at": "2019-03-03T05:48:38.000Z",
+            "id": "1102083339362553856",
+            "name": "MaFer",
+            "username": "MaFer89818798"
+        },
+        {
+            "created_at": "2022-05-12T17:06:09.000Z",
+            "id": "1524797835518132224",
+            "name": "Coltin",
+            "username": "Coltin00377145"
+        },
+        {
+            "created_at": "2022-05-12T17:07:16.000Z",
+            "id": "1524798225495908366",
+            "name": "Da615253728262",
+            "username": "da615253728262"
+        },
+        {
+            "created_at": "2022-05-12T17:06:12.000Z",
+            "id": "1524797925720993792",
+            "name": "Somnath Das",
+            "username": "dassomnath93"
+        },
+        {
+            "created_at": "2022-05-12T16:57:40.000Z",
+            "id": "1524795854581792774",
+            "name": "Chelsea Comtois",
+            "username": "ComtoisChelsea"
+        },
+        {
+            "created_at": "2022-05-12T17:08:48.000Z",
+            "id": "1524798676039704576",
+            "name": "Dylan Alfaro",
+            "username": "DylanAl19952132"
+        },
+        {
+            "created_at": "2022-05-02T19:04:17.000Z",
+            "id": "1521203836416835584",
+            "name": "CBK Lucas",
+            "username": "CBK_Lucas"
+        },
+        {
+            "created_at": "2022-05-12T17:08:11.000Z",
+            "id": "1524798185398484992",
+            "name": "daniel hall",
+            "username": "danielh78700312"
+        },
+        {
+            "created_at": "2022-05-12T17:00:15.000Z",
+            "id": "1524796583514099713",
+            "name": "Cornelius Buford",
+            "username": "CBuford69"
+        },
+        {
+            "created_at": "2022-04-25T19:06:57.000Z",
+            "id": "1518667733344337921",
+            "name": "Sparker Jr.",
+            "username": "JrSparker"
+        },
+        {
+            "created_at": "2022-05-12T17:02:44.000Z",
+            "id": "1524797043864403968",
+            "name": "Rejoan Official",
+            "username": "OfficialRejoan"
+        },
+        {
+            "created_at": "2022-05-12T17:02:35.000Z",
+            "id": "1524797122398367745",
+            "name": "Dale Dickerson",
+            "username": "Dal3dick3rson"
+        },
+        {
+            "created_at": "2022-05-12T17:07:24.000Z",
+            "id": "1524798318789812230",
+            "name": "Yeattwiz7559964",
+            "username": "yeattwiz7559962"
+        },
+        {
+            "created_at": "2021-02-03T20:36:52.000Z",
+            "id": "1357065425281024000",
+            "name": "Eazy",
+            "username": "JamesJo63557928"
+        },
+        {
+            "created_at": "2022-05-12T17:07:12.000Z",
+            "id": "1524798327082172418",
+            "name": "Rena Ismayilova",
+            "username": "RenaIsmayilova9"
+        },
+        {
+            "created_at": "2022-05-12T17:03:14.000Z",
+            "id": "1524797189616283650",
+            "name": "ASHLEE MCCORMICK",
+            "username": "CoachAMcCormick"
+        },
+        {
+            "created_at": "2022-05-12T17:05:02.000Z",
+            "id": "1524797775552077826",
+            "name": "snoopy",
+            "username": "yacinzerrari"
+        },
+        {
+            "created_at": "2022-05-12T17:01:52.000Z",
+            "id": "1524796913090015238",
+            "name": "Renan Rios",
+            "username": "Renantog"
+        },
+        {
+            "created_at": "2022-05-12T17:07:13.000Z",
+            "id": "1524798241610555394",
+            "name": "Vega Bros",
+            "username": "VegaBros507"
+        },
+        {
+            "created_at": "2022-05-12T17:07:11.000Z",
+            "id": "1524798307242999809",
+            "name": "Joe",
+            "username": "Joe96613330"
+        },
+        {
+            "created_at": "2022-05-12T17:05:56.000Z",
+            "id": "1524797962123091971",
+            "name": "Chris Nuzzo",
+            "username": "nuzzalini"
+        },
+        {
+            "created_at": "2022-05-12T17:03:46.000Z",
+            "id": "1524797448627044357",
+            "name": "Tim Ruins",
+            "username": "tim_ruins"
+        },
+        {
+            "created_at": "2022-05-12T16:57:45.000Z",
+            "id": "1524795681629736966",
+            "name": "Wisdom Biddah",
+            "username": "wisdom_biddah"
+        },
+        {
+            "created_at": "2022-05-12T17:05:47.000Z",
+            "id": "1524797937544577035",
+            "name": "Joshua",
+            "username": "Joshua22471764"
+        },
+        {
+            "created_at": "2022-05-12T17:02:18.000Z",
+            "id": "1524797048675090432",
+            "name": "Elijah",
+            "username": "Curlyheadeli9"
+        },
+        {
+            "created_at": "2022-05-12T17:02:24.000Z",
+            "id": "1524797034259161091",
+            "name": "nnaocha maxpeter",
+            "username": "maxpeter_n"
+        },
+        {
+            "created_at": "2022-05-12T16:24:51.000Z",
+            "id": "1524787573549420546",
+            "name": "Sarah Leach",
+            "username": "SarahLeleach"
+        },
+        {
+            "created_at": "2011-11-14T06:36:05.000Z",
+            "id": "412057510",
+            "name": "Internet Ref",
+            "username": "Internet_Ref"
+        },
+        {
+            "created_at": "2022-05-12T17:04:27.000Z",
+            "id": "1524797587240456192",
+            "name": "Trent",
+            "username": "Trent45985843"
+        },
+        {
+            "created_at": "2022-05-12T17:06:26.000Z",
+            "id": "1524798109418545167",
+            "name": "Sportspage Bar",
+            "username": "SportspageB"
+        },
+        {
+            "created_at": "2022-05-12T17:00:22.000Z",
+            "id": "1524796494834016257",
+            "name": "travis dean",
+            "username": "rizingworrior"
+        },
+        {
+            "created_at": "2022-05-12T16:57:04.000Z",
+            "id": "1524795733127225358",
+            "name": "Need??!",
+            "username": "Zneeddd"
+        },
+        {
+            "created_at": "2022-05-12T17:04:32.000Z",
+            "id": "1524797652784881664",
+            "name": "Ethan",
+            "username": "readyforfun420"
+        },
+        {
+            "created_at": "2022-05-12T17:05:01.000Z",
+            "id": "1524797769944276993",
+            "name": "tisoforohofec03",
+            "username": "tisoforohofec03"
+        },
+        {
+            "created_at": "2022-05-12T16:50:17.000Z",
+            "id": "1524793947473731585",
+            "name": "Riana Nandrianina",
+            "username": "RianaNandriani5"
+        },
+        {
+            "created_at": "2022-05-12T17:04:58.000Z",
+            "id": "1524797760947556352",
+            "name": "Chattanooga Vol",
+            "username": "ChattVol02"
+        },
+        {
+            "created_at": "2022-05-12T16:55:45.000Z",
+            "id": "1524795444588646402",
+            "name": "Dakota Smith",
+            "username": "Kota2199"
+        },
+        {
+            "created_at": "2022-05-12T17:02:21.000Z",
+            "id": "1524797080967032833",
+            "name": "Christopher Bauza",
+            "username": "cb1498"
+        },
+        {
+            "created_at": "2022-05-06T02:58:53.000Z",
+            "id": "1522410491468869632",
+            "name": "Louis \u9ec4",
+            "username": "LouisShelbyH"
+        },
+        {
+            "created_at": "2022-05-12T17:05:37.000Z",
+            "id": "1524797874151751680",
+            "name": "Sam",
+            "username": "Sam07149779"
+        },
+        {
+            "created_at": "2022-05-12T16:47:57.000Z",
+            "id": "1524793465401397252",
+            "name": "Martin Salvador",
+            "username": "MartinTriple6"
+        },
+        {
+            "created_at": "2022-05-12T17:04:53.000Z",
+            "id": "1524797704638955520",
+            "name": "Broken Ambrose",
+            "username": "AmbroseBroken"
+        },
+        {
+            "created_at": "2022-05-12T16:52:26.000Z",
+            "id": "1524794542507102208",
+            "name": "Sidick Jibril",
+            "username": "JibrilKuri"
+        },
+        {
+            "created_at": "2022-05-12T17:04:37.000Z",
+            "id": "1524797535994388483",
+            "name": "WORD",
+            "username": "WORD20781452"
+        },
+        {
+            "created_at": "2022-05-12T16:54:55.000Z",
+            "id": "1524795115247525897",
+            "name": "Mohd zuhkafali Masran",
+            "username": "mohd_zuhkafali"
+        },
+        {
+            "created_at": "2016-03-09T17:00:10.000Z",
+            "id": "707611950180651008",
+            "name": "Yasir Arfat",
+            "username": "Yasich090"
+        },
+        {
+            "created_at": "2022-05-12T17:04:42.000Z",
+            "id": "1524797648149962752",
+            "name": "Nikesh Joshi",
+            "username": "NikeshJoshi12"
+        },
+        {
+            "created_at": "2022-05-12T16:43:31.000Z",
+            "id": "1524792366237818884",
+            "name": "Tamara Childress",
+            "username": "Ta_ma_ra_76"
+        },
+        {
+            "created_at": "2022-05-12T16:58:09.000Z",
+            "id": "1524795846486896641",
+            "name": "Philemon Alves",
+            "username": "PhilemonAlves"
+        },
+        {
+            "created_at": "2022-05-12T17:03:45.000Z",
+            "id": "1524797446701850625",
+            "name": "Dariel Gomez",
+            "username": "cbgdarirl"
+        },
+        {
+            "created_at": "2022-05-12T17:04:00.000Z",
+            "id": "1524797461839376384",
+            "name": "Mhd Azr",
+            "username": "Azr7Mhd"
+        },
+        {
+            "created_at": "2022-05-12T17:04:10.000Z",
+            "id": "1524797559440560129",
+            "name": "\u0645\u062d\u0645\u0648\u062f \u0645\u062d\u0645\u062f",
+            "username": "mhmwdmh22544974"
+        },
+        {
+            "created_at": "2022-05-12T16:55:51.000Z",
+            "id": "1524795250400804864",
+            "name": "Sureshkumarmahi Mahi",
+            "username": "Sureshk36451268"
+        },
+        {
+            "created_at": "2022-05-12T17:01:54.000Z",
+            "id": "1524796815601721344",
+            "name": "Tiffany Wong",
+            "username": "Ilove_funyuns"
+        },
+        {
+            "created_at": "2022-05-12T17:01:20.000Z",
+            "id": "1524796829124026380",
+            "name": "Garret Hoover",
+            "username": "garhoov"
+        },
+        {
+            "created_at": "2022-05-12T16:59:07.000Z",
+            "id": "1524796170358358016",
+            "name": "Nchagwa Mwita",
+            "username": "NchagwaMwita1"
+        },
+        {
+            "created_at": "2022-05-12T17:02:53.000Z",
+            "id": "1524797223917084674",
+            "name": "\u94b1\u6d9b",
+            "username": "CRISPRaYeast"
+        },
+        {
+            "created_at": "2022-05-12T16:59:39.000Z",
+            "id": "1524796192189734912",
+            "name": "Richard Thurlo",
+            "username": "RichardThurlo"
+        },
+        {
+            "created_at": "2022-05-12T17:01:47.000Z",
+            "id": "1524796917179244555",
+            "name": "sparta",
+            "username": "sparta53913304"
+        },
+        {
+            "created_at": "2022-05-10T16:56:49.000Z",
+            "id": "1524070883698130945",
+            "name": "yellow-brown baddies",
+            "username": "XXXloverlane"
+        },
+        {
+            "created_at": "2022-01-25T23:15:57.000Z",
+            "id": "1486115603098357764",
+            "name": "Gio Garcia",
+            "username": "chichiFire03"
+        },
+        {
+            "created_at": "2022-05-12T17:02:57.000Z",
+            "id": "1524797232830201856",
+            "name": "Ryder Weisert",
+            "username": "bigbeefyhitler"
+        },
+        {
+            "created_at": "2022-05-12T16:27:59.000Z",
+            "id": "1524788387831422984",
+            "name": "Abraham III Mari",
+            "username": "AimSmallAbBeIII"
+        },
+        {
+            "created_at": "2022-05-12T16:56:40.000Z",
+            "id": "1524795624830427136",
+            "name": "Senovia Galbiati",
+            "username": "SenoviaGalbiati"
+        },
+        {
+            "created_at": "2022-05-12T12:51:48.000Z",
+            "id": "1524734016053821440",
+            "name": "Allan Rodrigo Barrientos Hernandez",
+            "username": "AllanRodrigoBa7"
+        },
+        {
+            "created_at": "2022-05-12T17:02:12.000Z",
+            "id": "1524797041632845824",
+            "name": "Jesus Martinez",
+            "username": "Jesus_Mtzzzzzz"
+        },
+        {
+            "created_at": "2022-05-12T16:57:56.000Z",
+            "id": "1524795990288506882",
+            "name": "Orlandocityinsider",
+            "username": "OCSCinsider"
+        },
+        {
+            "created_at": "2022-05-12T17:02:32.000Z",
+            "id": "1524797116891152384",
+            "name": "Carson Pelletier",
+            "username": "CarsonPelletie3"
+        },
+        {
+            "created_at": "2022-05-12T17:01:59.000Z",
+            "id": "1524796936007688192",
+            "name": "Mihoubi Lamine",
+            "username": "MihoubiLamine"
+        },
+        {
+            "created_at": "2022-05-12T17:03:07.000Z",
+            "id": "1524797277746782210",
+            "name": "sebastian storch",
+            "username": "sebastianstorc3"
+        },
+        {
+            "created_at": "2022-05-12T16:59:05.000Z",
+            "id": "1524796195826065409",
+            "name": "Mahfuzur Rahman Maruf",
+            "username": "Mahfuzu86991123"
+        },
+        {
+            "created_at": "2022-05-12T16:58:07.000Z",
+            "id": "1524795837792002048",
+            "name": "Marco Marco",
+            "username": "NHCMARCO"
+        },
+        {
+            "created_at": "2022-05-12T17:00:06.000Z",
+            "id": "1524796509123923968",
+            "name": "Jeremy Kinuthia",
+            "username": "twizlerkid"
+        },
+        {
+            "created_at": "2022-05-12T16:58:35.000Z",
+            "id": "1524796108983218183",
+            "name": "laurenw306",
+            "username": "lwhiteatc"
+        },
+        {
+            "created_at": "2022-05-12T17:01:09.000Z",
+            "id": "1524796461233233920",
+            "name": "retgog",
+            "username": "retgog1"
+        },
+        {
+            "created_at": "2022-05-10T02:04:21.000Z",
+            "id": "1523846332527505408",
+            "name": "Bob",
+            "username": "Bob38507648"
+        },
+        {
+            "created_at": "2022-05-12T16:56:29.000Z",
+            "id": "1524795590588174337",
+            "name": "Darren J Lindsay",
+            "username": "myfraimeofmind"
+        },
+        {
+            "created_at": "2022-05-11T04:26:35.000Z",
+            "id": "1524244503321743360",
+            "name": "xingye",
+            "username": "xingye449501992"
+        },
+        {
+            "created_at": "2022-05-12T16:52:42.000Z",
+            "id": "1524793785640624128",
+            "name": "Fablegas Ug",
+            "username": "FablegasU"
+        },
+        {
+            "created_at": "2022-05-12T17:02:19.000Z",
+            "id": "1524797096406048768",
+            "name": "Testingkk",
+            "username": "Testingkk22"
+        },
+        {
+            "created_at": "2022-05-12T16:58:20.000Z",
+            "id": "1524796072572248064",
+            "name": "TJ Macapagal",
+            "username": "JMAC_401"
+        },
+        {
+            "created_at": "2022-05-12T16:47:33.000Z",
+            "id": "1524792923820204045",
+            "name": "Anson Ram\u00edrez",
+            "username": "AnsonRamirez"
+        },
+        {
+            "created_at": "2022-05-12T17:01:31.000Z",
+            "id": "1524796771288989696",
+            "name": "Liron Perrimond-Sayan",
+            "username": "LPSwatches"
+        },
+        {
+            "created_at": "2022-05-12T16:54:40.000Z",
+            "id": "1524795072432193537",
+            "name": "Christine",
+            "username": "Christi70038717"
+        },
+        {
+            "created_at": "2022-05-12T16:51:50.000Z",
+            "id": "1524794435132858368",
+            "name": "MASEPHAPHA",
+            "username": "MASEPHAPHA1"
+        }
+    ],
+    "following": [
+        {
+            "created_at": "2012-02-21T16:24:54.000Z",
+            "id": "498961017",
+            "name": "Robert Griffin III",
+            "username": "RGIII"
+        },
+        {
+            "created_at": "2009-04-30T21:03:23.000Z",
+            "id": "36771902",
+            "name": "Sean Farnham",
+            "username": "SeanFarnham"
+        },
+        {
+            "created_at": "2012-10-31T11:49:58.000Z",
+            "id": "916723087",
+            "name": "LaPhonso Ellis",
+            "username": "PhonzESPN"
+        },
+        {
+            "created_at": "2009-06-25T14:53:25.000Z",
+            "id": "50666556",
+            "name": "Oklahoma Softball",
+            "username": "OU_Softball"
+        },
+        {
+            "created_at": "2010-01-07T17:10:57.000Z",
+            "id": "102734290",
+            "name": "LSU Gymnastics",
+            "username": "LSUgym"
+        },
+        {
+            "created_at": "2013-05-08T05:11:35.000Z",
+            "id": "1411972092",
+            "name": "Katie Barnes",
+            "username": "katie_barnes3"
+        },
+        {
+            "created_at": "2020-04-15T03:16:06.000Z",
+            "id": "1250261526679863302",
+            "name": "No Context College Basketball",
+            "username": "ContextFreeCBB"
+        },
+        {
+            "created_at": "2009-08-24T16:15:14.000Z",
+            "id": "68441962",
+            "name": "Pete Thamel",
+            "username": "PeteThamel"
+        },
+        {
+            "created_at": "2015-01-11T00:20:15.000Z",
+            "id": "2972298107",
+            "name": "#1",
+            "username": "NaLyssaSmith"
+        },
+        {
+            "created_at": "2016-05-30T02:15:46.000Z",
+            "id": "737105189912477696",
+            "name": "Aliyah A. Boston",
+            "username": "aa_boston"
+        },
+        {
+            "created_at": "2015-06-08T00:40:17.000Z",
+            "id": "3239359639",
+            "name": "Caitlin Clark",
+            "username": "CaitlinClark22"
+        },
+        {
+            "created_at": "2014-06-27T17:17:54.000Z",
+            "id": "2591698982",
+            "name": "Heather Dinich",
+            "username": "CFBHeather"
+        },
+        {
+            "created_at": "2009-04-05T02:31:27.000Z",
+            "id": "28923113",
+            "name": "Domonique Foxworth",
+            "username": "Foxworth24"
+        },
+        {
+            "created_at": "2013-04-14T23:12:25.000Z",
+            "id": "1352983796",
+            "name": "SportsCenter NEXT",
+            "username": "SCNext"
+        },
+        {
+            "created_at": "2009-02-02T23:39:56.000Z",
+            "id": "19941901",
+            "name": "Shae Peppler Cornette",
+            "username": "shaepeppler"
+        },
+        {
+            "created_at": "2011-01-12T23:29:35.000Z",
+            "id": "237485829",
+            "name": "Skubie Mageza",
+            "username": "SkubieMageza"
+        },
+        {
+            "created_at": "2009-06-15T13:36:56.000Z",
+            "id": "47335665",
+            "name": "#3 NC State WBB \ud83d\udc3a\ud83c\udfc0",
+            "username": "PackWomensBball"
+        },
+        {
+            "created_at": "2012-08-11T00:58:19.000Z",
+            "id": "750362588",
+            "name": "South Dakota Football",
+            "username": "SDCoyotesFB"
+        },
+        {
+            "created_at": "2018-04-16T16:23:28.000Z",
+            "id": "985916593065476096",
+            "name": "Disney+",
+            "username": "disneyplus"
+        },
+        {
+            "created_at": "2011-10-15T04:40:12.000Z",
+            "id": "391166100",
+            "name": "jason fitz",
+            "username": "jasonfitz"
+        },
+        {
+            "created_at": "2010-09-05T06:47:40.000Z",
+            "id": "187092184",
+            "name": "Chelsea Gray",
+            "username": "cgray209"
+        },
+        {
+            "created_at": "2011-03-04T07:46:47.000Z",
+            "id": "260629728",
+            "name": "Diana Taurasi",
+            "username": "DianaTaurasi"
+        },
+        {
+            "created_at": "2009-04-08T18:15:19.000Z",
+            "id": "29779226",
+            "name": "Phoenix Mercury",
+            "username": "PhoenixMercury"
+        },
+        {
+            "created_at": "2010-09-13T23:23:15.000Z",
+            "id": "190437733",
+            "name": "Austin Miller",
+            "username": "AustinMillerTV"
+        },
+        {
+            "created_at": "2009-03-28T07:17:46.000Z",
+            "id": "27195114",
+            "name": "Drizzy",
+            "username": "Drake"
+        },
+        {
+            "created_at": "2009-02-02T19:27:33.000Z",
+            "id": "19924520",
+            "name": "Washington Mystics",
+            "username": "WashMystics"
+        },
+        {
+            "created_at": "2008-10-25T07:23:33.000Z",
+            "id": "16963843",
+            "name": "Pablo Torre",
+            "username": "PabloTorre"
+        },
+        {
+            "created_at": "2015-01-16T18:45:45.000Z",
+            "id": "2981573350",
+            "name": "Nico Ali Walsh",
+            "username": "NicoAliX74"
+        },
+        {
+            "created_at": "2009-05-31T07:29:26.000Z",
+            "id": "43658360",
+            "name": "DeMar DeRozan",
+            "username": "DeMar_DeRozan"
+        },
+        {
+            "created_at": "2012-12-15T15:17:07.000Z",
+            "id": "1013399942",
+            "name": "National Women\u2019s Soccer League",
+            "username": "NWSL"
+        },
+        {
+            "created_at": "2009-05-25T10:30:34.000Z",
+            "id": "42384760",
+            "name": "Carmelo Anthony",
+            "username": "carmeloanthony"
+        },
+        {
+            "created_at": "2008-10-29T19:36:21.000Z",
+            "id": "17049258",
+            "name": "USA Basketball",
+            "username": "usabasketball"
+        },
+        {
+            "created_at": "2008-12-16T15:40:51.000Z",
+            "id": "18164425",
+            "name": "Atlanta Dream",
+            "username": "AtlantaDream"
+        },
+        {
+            "created_at": "2009-02-25T14:25:28.000Z",
+            "id": "21870081",
+            "name": "Team USA",
+            "username": "TeamUSA"
+        },
+        {
+            "created_at": "2009-03-30T14:48:43.000Z",
+            "id": "27649623",
+            "name": "Marc J. Spears",
+            "username": "MarcJSpears"
+        },
+        {
+            "created_at": "2014-01-07T00:29:14.000Z",
+            "id": "2279776304",
+            "name": "Giannis Antetokounmpo",
+            "username": "Giannis_An34"
+        },
+        {
+            "created_at": "2018-02-06T17:08:49.000Z",
+            "id": "960923246341234688",
+            "name": "Seattle Kraken",
+            "username": "SeattleKraken"
+        },
+        {
+            "created_at": "2012-03-03T00:39:20.000Z",
+            "id": "512613427",
+            "name": "Russell Wilson",
+            "username": "DangeRussWilson"
+        },
+        {
+            "created_at": "2012-01-06T21:05:51.000Z",
+            "id": "456942424",
+            "name": "Home Team Hoops",
+            "username": "HomeTeamHoops"
+        },
+        {
+            "created_at": "2011-07-20T22:52:58.000Z",
+            "id": "339324866",
+            "name": "TheCrawsOver",
+            "username": "thecrawsover"
+        },
+        {
+            "created_at": "2010-08-02T02:32:13.000Z",
+            "id": "173677727",
+            "name": "Simone Biles",
+            "username": "Simone_Biles"
+        },
+        {
+            "created_at": "2016-04-30T23:05:37.000Z",
+            "id": "726548088970579968",
+            "name": "Kelsey Plum",
+            "username": "Kelseyplum10"
+        },
+        {
+            "created_at": "2010-12-09T15:05:51.000Z",
+            "id": "224659331",
+            "name": "TYSON FURY",
+            "username": "Tyson_Fury"
+        },
+        {
+            "created_at": "2009-04-15T21:23:07.000Z",
+            "id": "31524935",
+            "name": "Jeremy Rodriguez",
+            "username": "jeremyr_az"
+        },
+        {
+            "created_at": "2011-09-17T02:44:01.000Z",
+            "id": "374858898",
+            "name": "Ray Young",
+            "username": "rayfordyoung"
+        },
+        {
+            "created_at": "2013-04-23T14:10:25.000Z",
+            "id": "1374658542",
+            "name": "ESPN Citizenship",
+            "username": "ESPNCitizenship"
+        },
+        {
+            "created_at": "2010-03-11T17:58:15.000Z",
+            "id": "122130797",
+            "name": "Megan Rapinoe",
+            "username": "mPinoe"
+        },
+        {
+            "created_at": "2011-08-02T20:08:21.000Z",
+            "id": "347439018",
+            "name": "Arike Ogunbowale",
+            "username": "Arike_O"
+        },
+        {
+            "created_at": "2012-11-14T00:25:31.000Z",
+            "id": "946770918",
+            "name": "NBA Retweet",
+            "username": "RTNBA"
+        },
+        {
+            "created_at": "2018-09-24T17:57:27.000Z",
+            "id": "1044284694387412992",
+            "name": "ESPN+",
+            "username": "ESPNPlus"
+        },
+        {
+            "created_at": "2009-04-05T21:00:12.000Z",
+            "id": "29062886",
+            "name": "Mike Clay",
+            "username": "MikeClayNFL"
+        },
+        {
+            "created_at": "2009-06-20T17:53:26.000Z",
+            "id": "49067535",
+            "name": "Damien Woody",
+            "username": "damienwoody"
+        },
+        {
+            "created_at": "2009-05-26T04:15:37.000Z",
+            "id": "42562446",
+            "name": "Stephen Curry",
+            "username": "StephenCurry30"
+        },
+        {
+            "created_at": "2009-04-10T18:48:13.000Z",
+            "id": "30282826",
+            "name": "UCF Football",
+            "username": "UCF_Football"
+        },
+        {
+            "created_at": "2009-11-12T17:23:36.000Z",
+            "id": "89492950",
+            "name": "GamecockWBB",
+            "username": "GamecockWBB"
+        },
+        {
+            "created_at": "2009-10-10T18:16:17.000Z",
+            "id": "81411085",
+            "name": "James Herbert",
+            "username": "outsidethenba"
+        },
+        {
+            "created_at": "2010-01-14T00:45:48.000Z",
+            "id": "104660420",
+            "name": "Lamar Cardinals",
+            "username": "LamarAthletics"
+        },
+        {
+            "created_at": "2010-05-05T04:55:29.000Z",
+            "id": "140308631",
+            "name": "Mike Golic Jr",
+            "username": "mikegolicjr"
+        },
+        {
+            "created_at": "2016-09-22T19:52:53.000Z",
+            "id": "779045823497797632",
+            "name": "NC Courage",
+            "username": "TheNCCourage"
+        },
+        {
+            "created_at": "2016-09-06T22:04:16.000Z",
+            "id": "773280684173463552",
+            "name": "NaomiOsaka\u5927\u5742\u306a\u304a\u307f",
+            "username": "naomiosaka"
+        },
+        {
+            "created_at": "2010-07-30T21:19:46.000Z",
+            "id": "172882258",
+            "name": "Max Kellerman",
+            "username": "maxkellerman"
+        },
+        {
+            "created_at": "2009-03-29T02:23:21.000Z",
+            "id": "27361341",
+            "name": "Beth Mowins",
+            "username": "bethmowins"
+        },
+        {
+            "created_at": "2012-04-29T06:53:38.000Z",
+            "id": "566137233",
+            "name": "Preston Johnson",
+            "username": "SportsCheetah"
+        },
+        {
+            "created_at": "2010-07-23T20:47:39.000Z",
+            "id": "170053807",
+            "name": "Victoria Arlen",
+            "username": "Arlenv1"
+        },
+        {
+            "created_at": "2010-11-09T04:16:28.000Z",
+            "id": "213530043",
+            "name": "Chiney Ogwumike",
+            "username": "chiney"
+        },
+        {
+            "created_at": "2009-06-25T18:17:09.000Z",
+            "id": "50721809",
+            "name": "Tim Bontemps",
+            "username": "TimBontemps"
+        },
+        {
+            "created_at": "2009-05-13T15:48:27.000Z",
+            "id": "39776268",
+            "name": "Jon Anik",
+            "username": "Jon_Anik"
+        },
+        {
+            "created_at": "2007-08-21T01:15:55.000Z",
+            "id": "8318902",
+            "name": "Peter Rosenberg",
+            "username": "Rosenbergradio"
+        },
+        {
+            "created_at": "2009-12-10T20:18:22.000Z",
+            "id": "95975081",
+            "name": "Mina Kimes",
+            "username": "minakimes"
+        },
+        {
+            "created_at": "2010-11-16T14:32:58.000Z",
+            "id": "216366923",
+            "name": "Dalen Cuff",
+            "username": "DalenCuff"
+        },
+        {
+            "created_at": "2010-03-28T01:13:11.000Z",
+            "id": "127089988",
+            "name": "jordan cornette",
+            "username": "jordancornette"
+        },
+        {
+            "created_at": "2009-10-11T18:16:36.000Z",
+            "id": "81651832",
+            "name": "Kimberley A. Martin",
+            "username": "ByKimberleyA"
+        },
+        {
+            "created_at": "2008-09-22T11:47:32.000Z",
+            "id": "16402282",
+            "name": "Joe Fortenbaugh",
+            "username": "JoeFortenbaugh"
+        },
+        {
+            "created_at": "2010-08-07T00:47:18.000Z",
+            "id": "175580488",
+            "name": "Tyler Fulghum",
+            "username": "Tyler_Fulghum"
+        },
+        {
+            "created_at": "2010-05-08T03:46:11.000Z",
+            "id": "141448462",
+            "name": "Ashley Brewer",
+            "username": "ESPNAshley"
+        },
+        {
+            "created_at": "2012-01-02T16:40:53.000Z",
+            "id": "453144112",
+            "name": "Treavor Scales",
+            "username": "TreavorScales"
+        },
+        {
+            "created_at": "2008-12-07T17:40:52.000Z",
+            "id": "17944199",
+            "name": "Charly Arnolt",
+            "username": "CharlyOnTV"
+        },
+        {
+            "created_at": "2010-02-24T20:42:48.000Z",
+            "id": "117189498",
+            "name": "Dianna Russini",
+            "username": "diannaESPN"
+        },
+        {
+            "created_at": "2012-12-12T22:56:03.000Z",
+            "id": "1007506423",
+            "name": "Kendrick Perkins",
+            "username": "KendrickPerkins"
+        },
+        {
+            "created_at": "2011-06-27T02:36:27.000Z",
+            "id": "324703658",
+            "name": "Rex Chapman\ud83c\udfc7\ud83c\udffc",
+            "username": "RexChapman"
+        },
+        {
+            "created_at": "2013-02-21T16:02:13.000Z",
+            "id": "1205322793",
+            "name": "Marcus Spears",
+            "username": "mspears96"
+        },
+        {
+            "created_at": "2009-06-03T22:02:57.000Z",
+            "id": "44469844",
+            "name": "Harry Lyles Jr.",
+            "username": "harrylylesjr"
+        },
+        {
+            "created_at": "2012-11-11T01:46:55.000Z",
+            "id": "940340340",
+            "name": "Harrison",
+            "username": "HarrisonHill"
+        },
+        {
+            "created_at": "2017-10-17T15:22:34.000Z",
+            "id": "920309065158397952",
+            "name": "Las Vegas Aces",
+            "username": "LVAces"
+        },
+        {
+            "created_at": "2008-12-16T17:51:12.000Z",
+            "id": "18167574",
+            "name": "Seattle Storm",
+            "username": "seattlestorm"
+        },
+        {
+            "created_at": "2017-12-01T15:50:37.000Z",
+            "id": "936623577847287808",
+            "name": "Tampa Bay Super Bowl LV Host Committee",
+            "username": "TampaBayLV"
+        },
+        {
+            "created_at": "2009-05-02T00:12:25.000Z",
+            "id": "37085464",
+            "name": "Los Angeles Sparks",
+            "username": "LASparks"
+        },
+        {
+            "created_at": "2010-02-11T04:09:30.000Z",
+            "id": "113236871",
+            "name": "Gary Striewski",
+            "username": "garystriewski"
+        },
+        {
+            "created_at": "2012-01-16T08:41:33.000Z",
+            "id": "465378500",
+            "name": "christine williamson",
+            "username": "itsthebaldgirl"
+        },
+        {
+            "created_at": "2009-04-21T04:36:42.000Z",
+            "id": "33813365",
+            "name": "Joon Lee",
+            "username": "joonlee"
+        },
+        {
+            "created_at": "2009-02-25T21:22:18.000Z",
+            "id": "21920875",
+            "name": "horseplay enthusiast",
+            "username": "clintonyates"
+        },
+        {
+            "created_at": "2009-03-20T22:55:49.000Z",
+            "id": "25593665",
+            "name": "Mechelle Voepel",
+            "username": "MechelleV"
+        },
+        {
+            "created_at": "2009-05-21T02:20:44.000Z",
+            "id": "41509142",
+            "name": "Rachel Nichols",
+            "username": "Rachel__Nichols"
+        },
+        {
+            "created_at": "2011-08-11T17:31:20.000Z",
+            "id": "353178677",
+            "name": "Patrick Mahomes II",
+            "username": "PatrickMahomes"
+        },
+        {
+            "created_at": "2012-12-13T23:18:30.000Z",
+            "id": "1009934760",
+            "name": "Sabrina Ionescu",
+            "username": "sabrina_i20"
+        },
+        {
+            "created_at": "2008-10-19T17:08:14.000Z",
+            "id": "16853288",
+            "name": "Hoopmixtape.com",
+            "username": "Hoopmixtape"
+        },
+        {
+            "created_at": "2009-03-05T18:40:10.000Z",
+            "id": "22957302",
+            "name": "Rebecca Lobo",
+            "username": "RebeccaLobo"
+        },
+        {
+            "created_at": "2010-09-25T20:14:33.000Z",
+            "id": "195100261",
+            "name": "Matthew Doyle",
+            "username": "MattDoyle76"
+        },
+        {
+            "created_at": "2009-07-22T19:59:22.000Z",
+            "id": "59230820",
+            "name": "Paul Tenorio",
+            "username": "PaulTenorio"
+        },
+        {
+            "created_at": "2008-11-04T16:04:48.000Z",
+            "id": "17159397",
+            "name": "WNBA",
+            "username": "WNBA"
+        }
+    ],
+    "retweets": [
+        {
+            "created_at": "2022-05-12T01:57:08.000Z",
+            "id": "1524569330456928256",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 775
+            },
+            "text": "RT @ESPNNBA: JRUE HOLIDAY \ud83d\udd12 https://t.co/JIVKOjkelQ"
+        },
+        {
+            "created_at": "2022-05-10T23:05:51.000Z",
+            "id": "1524163837485895681",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Soccer Match",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 266
+            },
+            "text": "RT @ESPNPlus: Astros rookie Jeremy Pe\u00f1a \"already looks like a Gold Glove candidate, leading the major league among shortstops in defensive\u2026"
+        },
+        {
+            "created_at": "2022-05-10T18:51:49.000Z",
+            "id": "1524099909091221504",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1872
+            },
+            "text": "RT @ESPNRingside: The WBC has ordered @RyanGarcia vs. Isaac Cruz for a lightweight title eliminator bout, per a letter obtained by ESPN's @\u2026"
+        },
+        {
+            "created_at": "2022-05-10T14:33:38.000Z",
+            "id": "1524034937460084737",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sports Team",
+                "Product"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3549
+            },
+            "text": "RT @ESPNFC: OFFICIAL: Manchester City have confirmed the signing of Erling Haaland \ud83d\ude2f https://t.co/dNbUCiMA0o"
+        },
+        {
+            "created_at": "2022-05-10T14:32:44.000Z",
+            "id": "1524034708903841792",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "text": "RT @murdabeatz: \ud83c\udfd2 \ud83e\udd45 @NHL @espn https://t.co/0De1g3tVn3"
+        },
+        {
+            "created_at": "2022-05-09T20:15:06.000Z",
+            "id": "1523758480418562048",
+            "labels": [
+                "TV Shows",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2239
+            },
+            "text": "RT @SportsCenter: This was special \u26be\ud83e\udde1\n\n(via mccoveycovedave/IG) https://t.co/wvp4T2xLy3"
+        },
+        {
+            "created_at": "2022-05-08T21:11:44.000Z",
+            "id": "1523410346597576704",
+            "labels": [
+                "TV Shows",
+                "TV Episodes",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 597
+            },
+            "text": "RT @ESPNF1: MAX VERSTAPPEN WINS THE FIRST EVER MIAMI GP! \ud83c\udfc6 https://t.co/iOd8Trp2SS"
+        },
+        {
+            "created_at": "2022-05-08T20:28:46.000Z",
+            "id": "1523399530087333888",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 182
+            },
+            "text": "RT @ESPNF1: Max's move on Charles to take the lead in Miami \u2694\ufe0f\ud83c\udf34 https://t.co/8ekrYvrZPZ"
+        }
+    ],
+    "timeline": [
+        {
+            "created_at": "2022-05-12T16:40:00.000Z",
+            "id": "1524791511568752642",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sports Personality"
+            ],
+            "public_metrics": {
+                "like_count": 79,
+                "quote_count": 7,
+                "reply_count": 36,
+                "retweet_count": 17
+            },
+            "text": "Greg Norman's comments that referred to the Saudi Arabian monarchy's alleged involvement in the death of a Washington Post journalist as a \"mistake\" have drawn widespread criticism and a clarification from the LIV Golf Invitational Series. https://t.co/cRF3e7dtVO"
+        },
+        {
+            "created_at": "2022-05-12T16:30:11.000Z",
+            "id": "1524789041505390593",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 50,
+                "quote_count": 3,
+                "reply_count": 7,
+                "retweet_count": 9
+            },
+            "text": "Can the Warriors\u2019 loss be explained?\n\n@PabloTorre, @Foxworth24 and @IzGutierrez discuss Golden State\u2019s poor performance, Jeanie Buss\u2019 interview, if the Sun and Heat can close their respective series and more on @debatable \u2935\ufe0f\n\nhttps://t.co/ExPfBUovTK"
+        },
+        {
+            "created_at": "2022-05-12T16:21:59.000Z",
+            "id": "1524786978704830464",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Cities",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 1447,
+                "quote_count": 22,
+                "reply_count": 56,
+                "retweet_count": 83
+            },
+            "text": "Naomi Osaka \ud83e\udd1d Kyrie Irving\n\n(h/t @KyrieIrving ,@naomiosaka) https://t.co/T7P76lp1P8"
+        },
+        {
+            "created_at": "2022-05-12T14:48:44.000Z",
+            "id": "1524763513415163905",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 926,
+                "quote_count": 40,
+                "reply_count": 78,
+                "retweet_count": 78
+            },
+            "text": "\u201cGRIZZ IN SEVEN!\u201d\n\nJa Morant let \u2019em know after the blowout in Memphis \ud83c\udfa4\ud83d\udde3\n\n(via @jenabroyles) \nhttps://t.co/5HSV36qUvQ"
+        },
+        {
+            "created_at": "2022-05-12T04:25:05.000Z",
+            "id": "1524606566653218816",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 495,
+                "quote_count": 6,
+                "reply_count": 33,
+                "retweet_count": 38
+            },
+            "text": "The @NHLFlames are back on top in the series after Game 5 \u2668\ufe0f https://t.co/F5bsfoQoe6"
+        },
+        {
+            "created_at": "2022-05-12T03:59:38.000Z",
+            "id": "1524600158565978112",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 4778,
+                "quote_count": 38,
+                "reply_count": 118,
+                "retweet_count": 378
+            },
+            "text": "The Grizzlies DOMINATED the Warriors in Game 5 \ud83d\udc3b https://t.co/iXJi7ZvNgh"
+        },
+        {
+            "created_at": "2022-05-12T03:58:23.000Z",
+            "id": "1524599844517601280",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 304,
+                "quote_count": 13,
+                "reply_count": 87,
+                "retweet_count": 44
+            },
+            "text": "Pittsburgh captain Sidney Crosby was injured in the second period of the Penguins' Game 5 loss after taking a high hit from Rangers defenseman Jacob Trouba. https://t.co/eFCpzTe2hD"
+        },
+        {
+            "created_at": "2022-05-12T03:24:42.000Z",
+            "id": "1524591366864576512",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 14204,
+                "quote_count": 414,
+                "reply_count": 279,
+                "retweet_count": 1130
+            },
+            "text": "The Grizzlies have the largest lead when facing playoff elimination over the last 25 years \ud83d\ude33 https://t.co/nCYu4i88Mz"
+        },
+        {
+            "created_at": "2022-05-12T02:28:40.000Z",
+            "hashtags": [
+                "StanleyCup"
+            ],
+            "id": "1524577266830913537",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2007,
+                "quote_count": 38,
+                "reply_count": 54,
+                "retweet_count": 305
+            },
+            "text": "For the first time since 2012, the @FlaPanthers are leading a #StanleyCup playoff series \ud83d\udc4f https://t.co/8R659aS1Xp"
+        },
+        {
+            "created_at": "2022-05-12T01:57:08.000Z",
+            "id": "1524569330456928256",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 775
+            },
+            "text": "RT @ESPNNBA: JRUE HOLIDAY \ud83d\udd12 https://t.co/JIVKOjkelQ"
+        },
+        {
+            "created_at": "2022-05-12T01:46:24.000Z",
+            "id": "1524566629425856512",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2216,
+                "quote_count": 22,
+                "reply_count": 102,
+                "retweet_count": 223
+            },
+            "text": "The Rangers fight back in Game 5 to stay in playoff contention \ud83d\udcaa @NYRangers https://t.co/OXj3YO6cVn"
+        },
+        {
+            "created_at": "2022-05-12T01:38:49.000Z",
+            "id": "1524564721814458369",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 14150,
+                "quote_count": 222,
+                "reply_count": 247,
+                "retweet_count": 1329
+            },
+            "text": "WHAT A COMEBACK.\n\nTHE BUCKS TAKE THE SERIES LEAD \ud83e\udd8c https://t.co/Tx7kEzdOYz"
+        },
+        {
+            "created_at": "2022-05-12T00:52:03.000Z",
+            "id": "1524552953830514688",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 537,
+                "quote_count": 15,
+                "reply_count": 34,
+                "retweet_count": 66
+            },
+            "text": "It was 2-0 Penguins ... and then this happened \u203c\ufe0f\n\nWe're tied 3-3 going into the 3rd \ud83d\ude31\n\n\ud83d\udcfa: ESPN https://t.co/lgqLez0N5T"
+        },
+        {
+            "created_at": "2022-05-11T23:26:52.000Z",
+            "id": "1524531514272329733",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 2767,
+                "quote_count": 47,
+                "reply_count": 96,
+                "retweet_count": 209
+            },
+            "text": "BACK-TO-BACK NBA MVP \ud83c\udfc6\ud83c\udfc6\n\nWhere else does The Joker get the last laugh? \ud83c\udccf https://t.co/dke0S2rtSs"
+        },
+        {
+            "created_at": "2022-05-11T22:58:34.000Z",
+            "id": "1524524394768478208",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 80,
+                "quote_count": 1,
+                "reply_count": 30,
+                "retweet_count": 12
+            },
+            "text": ".@PKSubban1, @Arda and Chris Chelios talk Igor Shesterkin and what the New York Rangers need to do to ensure a victory tonight.\n\n\"If he's great, you know, the Rangers are going to win this game.\" https://t.co/CG0pJPwake"
+        },
+        {
+            "created_at": "2022-05-11T22:29:00.000Z",
+            "id": "1524516952491798528",
+            "labels": [
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Movie"
+            ],
+            "public_metrics": {
+                "like_count": 67,
+                "quote_count": 2,
+                "reply_count": 16,
+                "retweet_count": 13
+            },
+            "text": "The Drop is back for more playoff hockey \ud83c\udfd2\ud83d\ude4c\n\n@PKSubban1 is with @Arda and @wyshynski live to discuss his perspective on Cale Makar, the amount of goal-scoring this season and his experience being featured on \"Jackass Forever!\" https://t.co/91ppt5rO9B"
+        },
+        {
+            "created_at": "2022-05-11T21:31:45.000Z",
+            "id": "1524502547884609540",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Journalist"
+            ],
+            "public_metrics": {
+                "like_count": 1991,
+                "quote_count": 36,
+                "reply_count": 65,
+                "retweet_count": 153
+            },
+            "text": "The NBA Today crew were in a mood \ud83d\ude05\n\n@Rjeff24 was just trying to find out what was wrong \ud83d\ude02 @malika_andrews @KendrickPerkins @ramonashelburne https://t.co/wGnS0HiBoN"
+        },
+        {
+            "created_at": "2022-05-11T21:05:44.000Z",
+            "id": "1524495999397466114",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 4953,
+                "quote_count": 924,
+                "reply_count": 211,
+                "retweet_count": 482
+            },
+            "text": "Steph's strategy for tonight in Game 5 in Memphis: \n\n(via @kendra__andrews) https://t.co/6pr5vepspc"
+        },
+        {
+            "created_at": "2022-05-11T18:25:24.000Z",
+            "id": "1524455650964742144",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sport"
+            ],
+            "public_metrics": {
+                "like_count": 1817,
+                "quote_count": 61,
+                "reply_count": 35,
+                "retweet_count": 347
+            },
+            "text": "\"We're family, it's going to go beyond basketball.\"\n\nTonight, 22 years after they met, Diana Taurasi and Sue Bird are set to face each other on the court once again \ud83d\udc10 https://t.co/ZEF3KL2o3U"
+        },
+        {
+            "created_at": "2022-05-11T18:06:56.000Z",
+            "id": "1524451003747028993",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Ongoing News Story",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 191,
+                "quote_count": 45,
+                "reply_count": 87,
+                "retweet_count": 63
+            },
+            "text": "The Cleveland Guardians' game against the Chicago White Sox has been postponed because of multiple positive COVID-19 tests within the Guardians' organization, MLB announced Wednesday. https://t.co/qZMQANXJht"
+        },
+        {
+            "created_at": "2022-05-11T17:00:49.000Z",
+            "id": "1524434365429821441",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "States"
+            ],
+            "public_metrics": {
+                "like_count": 5252,
+                "quote_count": 148,
+                "reply_count": 204,
+                "retweet_count": 1130
+            },
+            "text": "The Delaware State lacrosse team is exploring legal options after their bus was stopped for driving in the left lane and searched by Georgia police in April.\n\nThe stop included at least 4 officers and a K-9 dog sniffed through the team\u2019s belongings.\n\nMore: https://t.co/ZBPFBcLP7P https://t.co/rSozYRs5XZ"
+        },
+        {
+            "created_at": "2022-05-11T14:15:01.000Z",
+            "id": "1524392637175902209",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 1630,
+                "quote_count": 47,
+                "reply_count": 78,
+                "retweet_count": 150
+            },
+            "text": "The Penguins can advance. The Rangers can survive.\n\nA Game 5 you're not going to want to miss\u203c\ufe0f\n\n\ud83d\udcfa: 7 PM ET on ESPN https://t.co/EpGNAnTOwl"
+        },
+        {
+            "created_at": "2022-05-11T13:00:24.000Z",
+            "id": "1524373861013282816",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2679,
+                "quote_count": 3,
+                "reply_count": 10,
+                "retweet_count": 158
+            },
+            "text": "All it took was 11 starts\u203c\ufe0f \n\nFormer @Angels ace @Weave1036 showed love to Reid Detmers following his first solo no-hitter Tuesday night. https://t.co/UJSfsymCXi"
+        },
+        {
+            "created_at": "2022-05-11T05:21:58.000Z",
+            "id": "1524258493661958146",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2368,
+                "quote_count": 40,
+                "reply_count": 97,
+                "retweet_count": 263
+            },
+            "text": "KINGS SURVIVE \ud83d\udc51\n\nLA holds on in OT to go up in the series! @LAKings https://t.co/4lrLFjTcML"
+        },
+        {
+            "created_at": "2022-05-11T05:09:52.000Z",
+            "id": "1524255445828964353",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 1263,
+                "quote_count": 86,
+                "reply_count": 71,
+                "retweet_count": 297
+            },
+            "text": "Bob Lanier, an eight-time NBA All-Star and member of the Naismith Memorial Basketball Hall of Fame, has died. He was 73. https://t.co/yXsZ7LAnGR"
+        },
+        {
+            "created_at": "2022-05-11T05:00:46.000Z",
+            "id": "1524253156011614210",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 286,
+                "quote_count": 6,
+                "reply_count": 25,
+                "retweet_count": 32
+            },
+            "text": "THE OILERS HAVE FORCED OT IN EDMONTON \ud83d\udea8\n\n\ud83d\udcfa: ESPN2 https://t.co/IgmgKXRw2j"
+        },
+        {
+            "created_at": "2022-05-11T04:32:18.000Z",
+            "id": "1524245991980994562",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 419,
+                "quote_count": 3,
+                "reply_count": 38,
+                "retweet_count": 41
+            },
+            "text": "McDavid is money after the faceoff \ud83d\udcb0 https://t.co/zBHVEqjU84"
+        },
+        {
+            "created_at": "2022-05-11T04:26:01.000Z",
+            "id": "1524244412942983168",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 10579,
+                "quote_count": 73,
+                "reply_count": 48,
+                "retweet_count": 1190
+            },
+            "text": "THE ROOKIE THROWS A NO-HITTER \ud83d\udea8\n\nReid Detmers is the youngest pitcher in @Angels history to throw a no-no! https://t.co/1PgsOCpMTM"
+        },
+        {
+            "created_at": "2022-05-11T04:20:17.000Z",
+            "id": "1524242966864441345",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Soccer Match",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "States"
+            ],
+            "public_metrics": {
+                "like_count": 1996,
+                "quote_count": 11,
+                "reply_count": 37,
+                "retweet_count": 142
+            },
+            "text": "The Blues battle in Minnesota to take the series lead \ud83c\udfb6 @StLouisBlues https://t.co/rdIqSpyvOZ"
+        },
+        {
+            "created_at": "2022-05-11T03:03:18.000Z",
+            "id": "1524223595978895360",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2735,
+                "quote_count": 64,
+                "reply_count": 63,
+                "retweet_count": 436
+            },
+            "text": "ALL RISE \u203c\ufe0f\n\nAaron Judge wins it with the first walk-off homer of his career \ud83d\udcaa https://t.co/CZBhZdFv80"
+        },
+        {
+            "created_at": "2022-05-11T02:43:04.000Z",
+            "id": "1524218503431086080",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2270,
+                "quote_count": 21,
+                "reply_count": 31,
+                "retweet_count": 165
+            },
+            "text": "Mike Trout crushed this \ud83d\udcaa\n\n(via @MLB) https://t.co/cWpjPFiLc0"
+        },
+        {
+            "created_at": "2022-05-11T02:37:31.000Z",
+            "id": "1524217105079435264",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 673,
+                "quote_count": 8,
+                "reply_count": 29,
+                "retweet_count": 53
+            },
+            "text": "Kirill the Thrill nets his second of the night\u203c\ufe0f\n\n@mnwild lead 2-1! https://t.co/fOyWJR77w3"
+        },
+        {
+            "created_at": "2022-05-11T02:16:51.000Z",
+            "id": "1524211905296056336",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 757,
+                "quote_count": 16,
+                "reply_count": 41,
+                "retweet_count": 81
+            },
+            "text": "Toronto hangs on and wins Game 5\u203c\ufe0f @MapleLeafs \n\nOne win away from their first playoff series victory since 2004. https://t.co/uq3cRSgppm"
+        },
+        {
+            "created_at": "2022-05-11T01:51:10.000Z",
+            "id": "1524205441923923969",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 1221,
+                "quote_count": 5,
+                "reply_count": 43,
+                "retweet_count": 106
+            },
+            "text": "Carolina handles Boston to get back on top in the series \ud83c\udf00 @Canes https://t.co/NBOQ5FlUaq"
+        },
+        {
+            "created_at": "2022-05-11T00:44:20.000Z",
+            "id": "1524188621695328261",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 429,
+                "quote_count": 10,
+                "reply_count": 37,
+                "retweet_count": 49
+            },
+            "text": "The puck somehow jumped into the net \ud83d\ude33 @Canes https://t.co/AjqIP7qpEY"
+        },
+        {
+            "created_at": "2022-05-10T23:12:56.000Z",
+            "id": "1524165620048224256",
+            "labels": [
+                "Sport",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 621,
+                "quote_count": 12,
+                "reply_count": 43,
+                "retweet_count": 72
+            },
+            "text": "IT'S TIME FOR PLAYOFF HOCKEY\u203c\ufe0f\n\n\ud83d\udcfa: ESPN https://t.co/AJ6ataE3hG"
+        },
+        {
+            "created_at": "2022-05-10T23:05:51.000Z",
+            "id": "1524163837485895681",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Soccer Match",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 266
+            },
+            "text": "RT @ESPNPlus: Astros rookie Jeremy Pe\u00f1a \"already looks like a Gold Glove candidate, leading the major league among shortstops in defensive\u2026"
+        },
+        {
+            "created_at": "2022-05-10T22:59:40.000Z",
+            "id": "1524162282820878336",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 646,
+                "quote_count": 9,
+                "reply_count": 36,
+                "retweet_count": 78
+            },
+            "text": "The selection order is set for the 2022 NHL draft \ud83c\udfd2 https://t.co/xbh7aiAaJU"
+        },
+        {
+            "created_at": "2022-05-10T22:02:05.000Z",
+            "id": "1524147791228022785",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 18985,
+                "quote_count": 2090,
+                "reply_count": 1419,
+                "retweet_count": 1864
+            },
+            "text": "Breaking: Ja Morant has a bone bruise in his right knee and is doubtful for the remainder of the playoffs, the Grizzlies announced. https://t.co/A73iMhDHvn"
+        },
+        {
+            "created_at": "2022-05-10T20:27:40.000Z",
+            "id": "1524124030219001858",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "States",
+                "Sport"
+            ],
+            "public_metrics": {
+                "like_count": 7027,
+                "quote_count": 483,
+                "reply_count": 177,
+                "retweet_count": 864
+            },
+            "text": "Former Michigan State basketball star Adreian Payne was shot and killed in Orlando, Florida, early Monday while trying to help a woman engaged in a domestic dispute, according to court documents released Tuesday. \n\nMore: https://t.co/92xlTanQgr https://t.co/e4FeeqPMuj"
+        },
+        {
+            "created_at": "2022-05-10T18:51:49.000Z",
+            "id": "1524099909091221504",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1872
+            },
+            "text": "RT @ESPNRingside: The WBC has ordered @RyanGarcia vs. Isaac Cruz for a lightweight title eliminator bout, per a letter obtained by ESPN's @\u2026"
+        },
+        {
+            "created_at": "2022-05-10T18:15:02.000Z",
+            "hashtags": [
+                "WNBATwitter"
+            ],
+            "id": "1524090650823639040",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 860,
+                "quote_count": 272,
+                "reply_count": 538,
+                "retweet_count": 74
+            },
+            "text": "You can only bring back one \ud83e\udd14 \n\nShare you answers \ud83d\udc47  #WNBATwitter https://t.co/shcie1Dd8I"
+        },
+        {
+            "created_at": "2022-05-10T18:02:00.000Z",
+            "id": "1524087371033161729",
+            "labels": [
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2274,
+                "quote_count": 24,
+                "reply_count": 39,
+                "retweet_count": 179
+            },
+            "text": "After a 23-year career, Patrick Marleau is hanging up his skates \ud83d\udc4f\n\n\ud83c\udfd2 1,799 games played\n\ud83c\udfd2 566 goals\n\ud83c\udfd2 1,197 points\n\nLegend. https://t.co/pxUK0bo81z"
+        },
+        {
+            "created_at": "2022-05-10T17:31:28.000Z",
+            "id": "1524079689203081216",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 545,
+                "quote_count": 7,
+                "reply_count": 16,
+                "retweet_count": 59
+            },
+            "text": "\"This dude is special and he's that guy.\" \ud83d\udcaa\n\nAnfernee Simons talks about learning from Damian Lillard and what it takes to hit the big shots. https://t.co/XoPWJrp1UL"
+        },
+        {
+            "created_at": "2022-05-10T17:16:31.000Z",
+            "id": "1524075928355151872",
+            "labels": [
+                "TV Channels",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 69,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "@disneyplus Can't wait! \ud83c\uddec\ud83c\uddf7\ud83c\udf7f"
+        },
+        {
+            "created_at": "2022-05-10T17:14:30.000Z",
+            "id": "1524075420827541504",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 315,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 55
+            },
+            "text": "https://t.co/OQKB6o0y3z"
+        },
+        {
+            "created_at": "2022-05-10T17:14:12.000Z",
+            "id": "1524075343765639169",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 267,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 46
+            },
+            "text": "https://t.co/nYCDOgeGCz"
+        },
+        {
+            "created_at": "2022-05-10T17:13:52.000Z",
+            "id": "1524075259091058688",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 124,
+                "quote_count": 2,
+                "reply_count": 3,
+                "retweet_count": 11
+            },
+            "text": "https://t.co/IYF9F45GMW"
+        },
+        {
+            "created_at": "2022-05-10T17:13:26.000Z",
+            "id": "1524075149636505601",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 113,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 11
+            },
+            "text": "https://t.co/4PaLaelriT"
+        },
+        {
+            "created_at": "2022-05-10T17:13:07.000Z",
+            "id": "1524075069315575814",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 115,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 15
+            },
+            "text": "https://t.co/ZVTnWKFPNu"
+        },
+        {
+            "created_at": "2022-05-10T17:12:46.000Z",
+            "hashtags": [
+                "AANHPIHeritageMonth"
+            ],
+            "id": "1524074981281337344",
+            "labels": [
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 874,
+                "quote_count": 20,
+                "reply_count": 17,
+                "retweet_count": 189
+            },
+            "text": "From virtually no representation to becoming a dominant force within the sport \u26f8\ufe0f (THREAD)\n\n#AANHPIHeritageMonth https://t.co/z1kOSNe6gh"
+        },
+        {
+            "created_at": "2022-05-10T16:45:45.000Z",
+            "id": "1524068183111614464",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Local News"
+            ],
+            "public_metrics": {
+                "like_count": 76,
+                "quote_count": 2,
+                "reply_count": 15,
+                "retweet_count": 17
+            },
+            "text": "On the latest @debatable, @PabloTorre, @Foxworth24 and @djacoby dive in on where this Celtics-Bucks series is headed and which No. 1 seed they are more confident in: the Suns or the Heat.\n\nPlus, they react to the Tom Brady news \u203c\ufe0f\n\nhttps://t.co/hH55hEiJ6X"
+        },
+        {
+            "created_at": "2022-05-10T14:33:38.000Z",
+            "id": "1524034937460084737",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sports Team",
+                "Product"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3549
+            },
+            "text": "RT @ESPNFC: OFFICIAL: Manchester City have confirmed the signing of Erling Haaland \ud83d\ude2f https://t.co/dNbUCiMA0o"
+        },
+        {
+            "created_at": "2022-05-10T14:32:44.000Z",
+            "id": "1524034708903841792",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "text": "RT @murdabeatz: \ud83c\udfd2 \ud83e\udd45 @NHL @espn https://t.co/0De1g3tVn3"
+        },
+        {
+            "created_at": "2022-05-10T14:08:48.000Z",
+            "hashtags": [
+                "StanleyCup"
+            ],
+            "id": "1524028685946433538",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 908,
+                "quote_count": 10,
+                "reply_count": 38,
+                "retweet_count": 90
+            },
+            "text": "Pivotal Game Fives Galore in the #StanleyCup playoffs \ud83e\udd29\n\n\ud83d\udcfa TONIGHT | ESPN, ESPN2 https://t.co/YfNpSL040p"
+        },
+        {
+            "created_at": "2022-05-10T04:43:26.000Z",
+            "id": "1523886404987768836",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "States"
+            ],
+            "public_metrics": {
+                "like_count": 3256,
+                "quote_count": 26,
+                "reply_count": 52,
+                "retweet_count": 313
+            },
+            "text": "The Colorado @Avalanche smother the Preds and sweep the series \ud83e\uddf9 https://t.co/h6K5iTnCXb"
+        },
+        {
+            "created_at": "2022-05-10T04:18:29.000Z",
+            "id": "1523880127586660352",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 288,
+                "quote_count": 9,
+                "reply_count": 11,
+                "retweet_count": 24
+            },
+            "text": "MAKAR \u27a1\ufe0f NICHUSHKIN\n\nAvs take the lead 4-3! https://t.co/nEQUGZpMHf"
+        },
+        {
+            "created_at": "2022-05-10T04:02:47.000Z",
+            "id": "1523876178427142145",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 242,
+                "quote_count": 4,
+                "reply_count": 20,
+                "retweet_count": 22
+            },
+            "text": "Filip Forsberg\u2019s first goal of the series \u27a1\ufe0f Preds' first lead of the series\u203c\ufe0f https://t.co/jz0hWk4A0m"
+        },
+        {
+            "created_at": "2022-05-10T03:32:53.000Z",
+            "id": "1523868650675253248",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 196,
+                "quote_count": 1,
+                "reply_count": 17,
+                "retweet_count": 21
+            },
+            "text": "Trenin pots his second of the night\ud83d\udea8\ud83d\udea8\n\nWe\u2019re tied 2-2 going into the third period! https://t.co/cCDm7opijg"
+        },
+        {
+            "created_at": "2022-05-10T02:36:59.000Z",
+            "id": "1523854583331946496",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 279,
+                "quote_count": 2,
+                "reply_count": 27,
+                "retweet_count": 22
+            },
+            "text": "OFF THE IRON \ud83d\udea8\n\nWe're tied at 1! https://t.co/MuCRpqKhvx"
+        },
+        {
+            "created_at": "2022-05-10T02:04:39.000Z",
+            "id": "1523846446738411520",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 453,
+                "quote_count": 8,
+                "reply_count": 37,
+                "retweet_count": 33
+            },
+            "text": "Talk about a RIPPER \ud83d\ude33\n\nAvalanche lead 1-0 https://t.co/9wvZ97yYAY"
+        },
+        {
+            "created_at": "2022-05-10T01:40:52.000Z",
+            "id": "1523840462943145985",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2238,
+                "quote_count": 83,
+                "reply_count": 77,
+                "retweet_count": 311
+            },
+            "text": "AL HORFORD SLAM OVER GIANNIS \ud83d\ude33\n\n(via @NBA)\nhttps://t.co/Pcg3b52AeH"
+        },
+        {
+            "created_at": "2022-05-10T01:39:24.000Z",
+            "id": "1523840092644720642",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 5028,
+                "quote_count": 34,
+                "reply_count": 54,
+                "retweet_count": 382
+            },
+            "text": "The @penguins put up SEVEN goals to take a commanding lead in the series \ud83d\ude24 https://t.co/6dm7tpXEju"
+        },
+        {
+            "created_at": "2022-05-10T01:36:31.000Z",
+            "id": "1523839366853906433",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 433,
+                "quote_count": 12,
+                "reply_count": 17,
+                "retweet_count": 52
+            },
+            "text": "The VISION from Kapanen\u203c\ufe0f\n\nThe FINISH by Malkin \ud83d\ude24 https://t.co/honKfaVbDx"
+        },
+        {
+            "created_at": "2022-05-10T00:48:07.000Z",
+            "id": "1523827186188259330",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2255,
+                "quote_count": 29,
+                "reply_count": 54,
+                "retweet_count": 222
+            },
+            "text": "The @penguins put up FIVE goals in the 2nd period \ud83d\ude33 https://t.co/ktfbcGQlaD"
+        },
+        {
+            "created_at": "2022-05-10T00:44:21.000Z",
+            "id": "1523826239903047681",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 875,
+                "quote_count": 20,
+                "reply_count": 36,
+                "retweet_count": 107
+            },
+            "text": "ELITE COMPANY \ud83d\udcc8\n\nSidney Crosby is the sixth player in NHL history to reach 200 career points in the postseason. https://t.co/NtTOdZNkue"
+        },
+        {
+            "created_at": "2022-05-10T00:34:41.000Z",
+            "id": "1523823807097618432",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Coach",
+                "Ongoing News Story"
+            ],
+            "public_metrics": {
+                "like_count": 3392,
+                "quote_count": 165,
+                "reply_count": 270,
+                "retweet_count": 311
+            },
+            "text": "Breaking: Steve Kerr tested positive for COVID-19.\n\nMike Brown will coach Game 4 for the Warriors tonight. https://t.co/eCyYHnwbA9"
+        },
+        {
+            "created_at": "2022-05-10T00:21:58.000Z",
+            "id": "1523820607355310081",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 1069,
+                "quote_count": 7,
+                "reply_count": 23,
+                "retweet_count": 101
+            },
+            "text": "TWO GOALS. 24 SECONDS \ud83d\udc27\n\n@penguins are rolling! https://t.co/7Gnf7H4gnL"
+        },
+        {
+            "created_at": "2022-05-09T23:41:58.000Z",
+            "id": "1523810539624751104",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 371,
+                "quote_count": 9,
+                "reply_count": 24,
+                "retweet_count": 32
+            },
+            "text": "TIE GAME \ud83d\udde3\n\nSidney Crosby's goal is confirmed after video review. https://t.co/n5n4aktdf8"
+        },
+        {
+            "created_at": "2022-05-09T23:29:00.000Z",
+            "id": "1523807278612287488",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Coach"
+            ],
+            "public_metrics": {
+                "like_count": 7720,
+                "quote_count": 113,
+                "reply_count": 72,
+                "retweet_count": 840
+            },
+            "text": "Wholesome moments \u2764\ufe0f\n\nMonty Williams' family surprised him with his 2021-22 NBA Coach of the Year trophy \ud83e\udd7a\n\n(via @Suns)\nhttps://t.co/LYD070xDKc"
+        },
+        {
+            "created_at": "2022-05-09T23:22:06.000Z",
+            "id": "1523805541138530304",
+            "labels": [
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 342,
+                "quote_count": 2,
+                "reply_count": 23,
+                "retweet_count": 39
+            },
+            "text": "RANGERS GET ON THE BOARD \ud83d\udea8\n\nAlexis Lafreniere slots in the wrist shot \ud83d\ude24 https://t.co/KfdQ93krlg"
+        },
+        {
+            "created_at": "2022-05-09T20:15:06.000Z",
+            "id": "1523758480418562048",
+            "labels": [
+                "TV Shows",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2239
+            },
+            "text": "RT @SportsCenter: This was special \u26be\ud83e\udde1\n\n(via mccoveycovedave/IG) https://t.co/wvp4T2xLy3"
+        },
+        {
+            "created_at": "2022-05-09T18:34:01.000Z",
+            "id": "1523733044154220544",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 6391,
+                "quote_count": 40,
+                "reply_count": 254,
+                "retweet_count": 325
+            },
+            "text": "Chris Paul weighed in about a situation involving a fan who harassed and physically contacted members of his family during Game 4. https://t.co/L5gUftsgdv"
+        },
+        {
+            "created_at": "2022-05-09T17:13:44.000Z",
+            "id": "1523712837130104832",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "States",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 953,
+                "quote_count": 116,
+                "reply_count": 57,
+                "retweet_count": 199
+            },
+            "text": "Former Michigan State standout Adreian Payne was killed Monday in a shooting in Florida, the Orange County Sheriff's Office said. He was 31. https://t.co/yFJwrrRFFO"
+        },
+        {
+            "created_at": "2022-05-09T16:29:01.000Z",
+            "id": "1523701583338520577",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Cities",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 81,
+                "quote_count": 0,
+                "reply_count": 12,
+                "retweet_count": 13
+            },
+            "text": "Philly ties it up! \ud83c\udfc0 \n\n@PabloTorre, @Foxworth24 and @edsbs discuss who has the upper hand in the Sixers-Heat series, where the Suns stand if Chris Paul continues to struggle, Ja Morant\u2019s comments on Jordan Poole and more on the latest @debatable \u2935\ufe0f \n\nhttps://t.co/XEARgwp34B"
+        },
+        {
+            "created_at": "2022-05-09T16:14:26.000Z",
+            "id": "1523697913301508096",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sport"
+            ],
+            "public_metrics": {
+                "like_count": 362,
+                "quote_count": 1,
+                "reply_count": 7,
+                "retweet_count": 47
+            },
+            "text": "Through the highs and the lows, @MikaelaShiffrin has grown up in front of the world. \n\nShe talks about her dad's influence on her, how she's moving forward after the Beijing Olympics and mental health awareness.\n\n(via @alyroe, @OTLonESPN) https://t.co/eTeyWLdOB4"
+        },
+        {
+            "created_at": "2022-05-09T15:20:02.000Z",
+            "id": "1523684223311355904",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 1397,
+                "quote_count": 70,
+                "reply_count": 81,
+                "retweet_count": 185
+            },
+            "text": "WNBA Week 1 is in the books! \ud83d\udcaa \n\nFull power rankings \u27a1\ufe0f  https://t.co/PgFFWifQgY https://t.co/iQfxRSXnNf"
+        },
+        {
+            "created_at": "2022-05-09T15:05:40.000Z",
+            "id": "1523680608190402560",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Sports Personality",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 7792,
+                "quote_count": 57,
+                "reply_count": 58,
+                "retweet_count": 610
+            },
+            "text": "Dick Vitale will be honored with the Jimmy V Award for Perseverance at the ESPYS.\n\nLast summer, Vitale underwent multiple surgeries to remove melanoma. A few months later, he was diagnosed with lymphoma, and underwent six months of chemo. This March, he was declared cancer free. https://t.co/2Ug9AgJmdx"
+        },
+        {
+            "created_at": "2022-05-09T14:36:24.000Z",
+            "id": "1523673243911168000",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Coach",
+                "Athlete",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 246,
+                "quote_count": 82,
+                "reply_count": 60,
+                "retweet_count": 45
+            },
+            "text": "The New York Islanders fired head coach Barry Trotz on Monday, president and general manager Lou Lamoriello announced. https://t.co/tktsCkGQTB"
+        },
+        {
+            "created_at": "2022-05-09T13:14:47.000Z",
+            "id": "1523652703611760641",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 2134,
+                "quote_count": 58,
+                "reply_count": 60,
+                "retweet_count": 191
+            },
+            "text": "We\u2019ve got a Week 2 double-header coming to Monday Night Football! \ud83d\ude4c \n\n@Titans vs. @BuffaloBills | ESPN\n@Vikings vs. @Eagles | ABC https://t.co/0VvAb68hKL"
+        },
+        {
+            "created_at": "2022-05-09T12:45:10.000Z",
+            "id": "1523645250652233728",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sports Personality"
+            ],
+            "public_metrics": {
+                "like_count": 46263,
+                "quote_count": 3989,
+                "reply_count": 2028,
+                "retweet_count": 6962
+            },
+            "text": "Back. To. Back.\n\nNikola Jokic has been voted the NBA\u2019s Most Valuable Player for a second consecutive season, sources tell @wojespn. https://t.co/dDPa13VXlq"
+        },
+        {
+            "created_at": "2022-05-09T03:20:52.000Z",
+            "id": "1523503239148498944",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 1537,
+                "quote_count": 176,
+                "reply_count": 305,
+                "retweet_count": 265
+            },
+            "text": "Several members of Chris Paul's family were harassed and physically contacted by a fan in the Dallas Mavericks crowd, sources told @mcten.  https://t.co/lrA1vGBaRZ"
+        },
+        {
+            "created_at": "2022-05-09T02:38:29.000Z",
+            "id": "1523492572781547520",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 14427,
+                "quote_count": 130,
+                "reply_count": 160,
+                "retweet_count": 1082
+            },
+            "text": "The Sixers notch two straight at home to tie the series at two \ud83d\ude24 https://t.co/fXvVghzb09"
+        },
+        {
+            "created_at": "2022-05-09T02:14:44.000Z",
+            "id": "1523486595793436672",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 672,
+                "quote_count": 1,
+                "reply_count": 25,
+                "retweet_count": 63
+            },
+            "text": ".@T_Cloud4 and the @WashMystics took care of business \ud83d\ude24 https://t.co/z1IzxL9ydF"
+        },
+        {
+            "created_at": "2022-05-09T00:19:26.000Z",
+            "id": "1523457582991519744",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2601,
+                "quote_count": 21,
+                "reply_count": 74,
+                "retweet_count": 211
+            },
+            "text": "Another milestone for future HOFer @SylviaFowles \u26a1 https://t.co/CChZqM2IRT"
+        },
+        {
+            "created_at": "2022-05-08T23:17:25.000Z",
+            "id": "1523441974652841984",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Sports Personality"
+            ],
+            "public_metrics": {
+                "like_count": 643,
+                "quote_count": 23,
+                "reply_count": 56,
+                "retweet_count": 87
+            },
+            "text": "The Sacramento Kings have agreed with Mike Brown on a four-year deal to become their next head coach, sources tell @wojespn. https://t.co/e2QkNZ1CLq"
+        },
+        {
+            "created_at": "2022-05-08T22:19:17.000Z",
+            "id": "1523427342991134720",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 18426,
+                "quote_count": 198,
+                "reply_count": 155,
+                "retweet_count": 1411
+            },
+            "text": "The Mavs even the series at two before heading back to the desert \ud83d\udc34 https://t.co/TwWI2q2Ax7"
+        },
+        {
+            "created_at": "2022-05-08T22:00:22.000Z",
+            "id": "1523422582086590465",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 1236,
+                "quote_count": 21,
+                "reply_count": 29,
+                "retweet_count": 113
+            },
+            "text": "Dorian Finney-Smith drained his eighth 3\ufe0f\u20e3 \u203c\ufe0f https://t.co/TMNVZO8LJz"
+        },
+        {
+            "created_at": "2022-05-08T21:50:23.000Z",
+            "id": "1523420071233605635",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2778,
+                "quote_count": 274,
+                "reply_count": 265,
+                "retweet_count": 188
+            },
+            "text": "Chris Paul has fouled out of Game 4 after this play on Jalen Brunson. https://t.co/r5ooajNzCw"
+        },
+        {
+            "created_at": "2022-05-08T21:16:28.000Z",
+            "id": "1523411536559362051",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Coach"
+            ],
+            "public_metrics": {
+                "like_count": 2768,
+                "quote_count": 256,
+                "reply_count": 269,
+                "retweet_count": 280
+            },
+            "text": "Ja Morant is unlikely to play in Game 4 due to the knee injury he suffered in Game 3, Grizzlies coach Taylor Jenkins said. https://t.co/WfcKxDzNXw"
+        },
+        {
+            "created_at": "2022-05-08T21:11:44.000Z",
+            "id": "1523410346597576704",
+            "labels": [
+                "TV Shows",
+                "TV Episodes",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 597
+            },
+            "text": "RT @ESPNF1: MAX VERSTAPPEN WINS THE FIRST EVER MIAMI GP! \ud83c\udfc6 https://t.co/iOd8Trp2SS"
+        },
+        {
+            "created_at": "2022-05-08T21:07:01.000Z",
+            "id": "1523409157826572288",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 942,
+                "quote_count": 59,
+                "reply_count": 71,
+                "retweet_count": 58
+            },
+            "text": "Chris Paul picks up his fourth personal foul BEFORE halftime \ud83d\udc40 \n\n@dallasmavs lead 68-56 at half. https://t.co/PxLQUM4884"
+        },
+        {
+            "created_at": "2022-05-08T20:28:46.000Z",
+            "id": "1523399530087333888",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 182
+            },
+            "text": "RT @ESPNF1: Max's move on Charles to take the lead in Miami \u2694\ufe0f\ud83c\udf34 https://t.co/8ekrYvrZPZ"
+        },
+        {
+            "created_at": "2022-05-08T20:14:15.000Z",
+            "id": "1523395879155105794",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2777,
+                "quote_count": 69,
+                "reply_count": 136,
+                "retweet_count": 137
+            },
+            "text": "Luka Don\u010di\u0107 and Devin Booker have been assessed technical fouls early in Game 4. https://t.co/7dZajaRJMN"
+        },
+        {
+            "created_at": "2022-05-08T19:40:12.000Z",
+            "id": "1523387308216848385",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Local News"
+            ],
+            "public_metrics": {
+                "like_count": 573,
+                "quote_count": 5,
+                "reply_count": 21,
+                "retweet_count": 50
+            },
+            "text": "The @NHLBruins rallied off 4\ufe0f\u20e3 straight goals to take Game 4.\n\nSeries is knotted up at 2-2 \ud83e\udd1d https://t.co/tQOEGnEMPj"
+        },
+        {
+            "created_at": "2022-05-08T19:14:31.000Z",
+            "id": "1523380846782201864",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 181,
+                "quote_count": 2,
+                "reply_count": 14,
+                "retweet_count": 29
+            },
+            "text": "The field seeks to conquer a new track in Miami \ud83c\udf34\n\n@Edmondson_F1 joins @garystriewski, @Katie_George05 and @edsbs to discuss how we got to Miami, the making of the track and key parts drivers need to pay attention to \ud83c\udfc1 https://t.co/6HiaNS3c46"
+        },
+        {
+            "created_at": "2022-05-08T18:58:38.000Z",
+            "id": "1523376850826940416",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 446,
+                "quote_count": 6,
+                "reply_count": 26,
+                "retweet_count": 81
+            },
+            "text": "Countdown to Miami is LIVE from the Inaugural Miami Grand Prix! \ud83c\udf7f\n\n@garystriewski, @Katie_George05 and @edsbs are all onsite to get you ready for action in the Sunshine State \u2600\ufe0f https://t.co/6HiaNS3c46"
+        },
+        {
+            "created_at": "2022-05-08T18:50:13.000Z",
+            "id": "1523374731260440576",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Local News",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 487,
+                "quote_count": 5,
+                "reply_count": 17,
+                "retweet_count": 48
+            },
+            "text": "BRAD MARCHAND \ud83d\ude24\n\n@NHLBruins take the lead! https://t.co/MeAJpypQET"
+        },
+        {
+            "created_at": "2022-05-08T18:22:45.000Z",
+            "id": "1523367820910002177",
+            "labels": [
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 17610,
+                "quote_count": 345,
+                "reply_count": 205,
+                "retweet_count": 1287
+            },
+            "text": "A lot of star power in one photo \u2b50 @ESPNF1 \n\n(via @TomBrady) https://t.co/vRaSpt5TWA"
+        },
+        {
+            "created_at": "2022-05-08T18:00:01.000Z",
+            "id": "1523362099560210433",
+            "labels": [
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Holiday"
+            ],
+            "public_metrics": {
+                "like_count": 923,
+                "quote_count": 3,
+                "reply_count": 16,
+                "retweet_count": 60
+            },
+            "text": "Mother's Day double-header \ud83e\udd29 \n\n\ud83d\udcfa 8 and 10 PM ET on ESPN2 https://t.co/zTQ2P4zCgF"
+        }
+    ],
+    "tweets": [
+        {
+            "created_at": "2022-05-12T16:40:00.000Z",
+            "id": "1524791511568752642",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sports Personality"
+            ],
+            "public_metrics": {
+                "like_count": 79,
+                "quote_count": 7,
+                "reply_count": 36,
+                "retweet_count": 17
+            },
+            "text": "Greg Norman's comments that referred to the Saudi Arabian monarchy's alleged involvement in the death of a Washington Post journalist as a \"mistake\" have drawn widespread criticism and a clarification from the LIV Golf Invitational Series. https://t.co/cRF3e7dtVO"
+        },
+        {
+            "created_at": "2022-05-12T16:30:11.000Z",
+            "id": "1524789041505390593",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 50,
+                "quote_count": 3,
+                "reply_count": 7,
+                "retweet_count": 9
+            },
+            "text": "Can the Warriors\u2019 loss be explained?\n\n@PabloTorre, @Foxworth24 and @IzGutierrez discuss Golden State\u2019s poor performance, Jeanie Buss\u2019 interview, if the Sun and Heat can close their respective series and more on @debatable \u2935\ufe0f\n\nhttps://t.co/ExPfBUovTK"
+        },
+        {
+            "created_at": "2022-05-12T16:21:59.000Z",
+            "id": "1524786978704830464",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Cities",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 1447,
+                "quote_count": 22,
+                "reply_count": 56,
+                "retweet_count": 83
+            },
+            "text": "Naomi Osaka \ud83e\udd1d Kyrie Irving\n\n(h/t @KyrieIrving ,@naomiosaka) https://t.co/T7P76lp1P8"
+        },
+        {
+            "created_at": "2022-05-12T14:48:44.000Z",
+            "id": "1524763513415163905",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 926,
+                "quote_count": 40,
+                "reply_count": 78,
+                "retweet_count": 78
+            },
+            "text": "\u201cGRIZZ IN SEVEN!\u201d\n\nJa Morant let \u2019em know after the blowout in Memphis \ud83c\udfa4\ud83d\udde3\n\n(via @jenabroyles) \nhttps://t.co/5HSV36qUvQ"
+        },
+        {
+            "created_at": "2022-05-12T04:25:05.000Z",
+            "id": "1524606566653218816",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 495,
+                "quote_count": 6,
+                "reply_count": 33,
+                "retweet_count": 38
+            },
+            "text": "The @NHLFlames are back on top in the series after Game 5 \u2668\ufe0f https://t.co/F5bsfoQoe6"
+        },
+        {
+            "created_at": "2022-05-12T03:59:38.000Z",
+            "id": "1524600158565978112",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 4778,
+                "quote_count": 38,
+                "reply_count": 118,
+                "retweet_count": 378
+            },
+            "text": "The Grizzlies DOMINATED the Warriors in Game 5 \ud83d\udc3b https://t.co/iXJi7ZvNgh"
+        },
+        {
+            "created_at": "2022-05-12T03:58:23.000Z",
+            "id": "1524599844517601280",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 304,
+                "quote_count": 13,
+                "reply_count": 87,
+                "retweet_count": 44
+            },
+            "text": "Pittsburgh captain Sidney Crosby was injured in the second period of the Penguins' Game 5 loss after taking a high hit from Rangers defenseman Jacob Trouba. https://t.co/eFCpzTe2hD"
+        },
+        {
+            "created_at": "2022-05-12T03:24:42.000Z",
+            "id": "1524591366864576512",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 14204,
+                "quote_count": 414,
+                "reply_count": 279,
+                "retweet_count": 1130
+            },
+            "text": "The Grizzlies have the largest lead when facing playoff elimination over the last 25 years \ud83d\ude33 https://t.co/nCYu4i88Mz"
+        },
+        {
+            "created_at": "2022-05-12T02:28:40.000Z",
+            "hashtags": [
+                "StanleyCup"
+            ],
+            "id": "1524577266830913537",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2007,
+                "quote_count": 38,
+                "reply_count": 54,
+                "retweet_count": 305
+            },
+            "text": "For the first time since 2012, the @FlaPanthers are leading a #StanleyCup playoff series \ud83d\udc4f https://t.co/8R659aS1Xp"
+        },
+        {
+            "created_at": "2022-05-12T01:46:24.000Z",
+            "id": "1524566629425856512",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2216,
+                "quote_count": 22,
+                "reply_count": 102,
+                "retweet_count": 223
+            },
+            "text": "The Rangers fight back in Game 5 to stay in playoff contention \ud83d\udcaa @NYRangers https://t.co/OXj3YO6cVn"
+        },
+        {
+            "created_at": "2022-05-12T01:38:49.000Z",
+            "id": "1524564721814458369",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 14150,
+                "quote_count": 222,
+                "reply_count": 247,
+                "retweet_count": 1329
+            },
+            "text": "WHAT A COMEBACK.\n\nTHE BUCKS TAKE THE SERIES LEAD \ud83e\udd8c https://t.co/Tx7kEzdOYz"
+        },
+        {
+            "created_at": "2022-05-12T00:52:03.000Z",
+            "id": "1524552953830514688",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 537,
+                "quote_count": 15,
+                "reply_count": 34,
+                "retweet_count": 66
+            },
+            "text": "It was 2-0 Penguins ... and then this happened \u203c\ufe0f\n\nWe're tied 3-3 going into the 3rd \ud83d\ude31\n\n\ud83d\udcfa: ESPN https://t.co/lgqLez0N5T"
+        },
+        {
+            "created_at": "2022-05-11T23:26:52.000Z",
+            "id": "1524531514272329733",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 2767,
+                "quote_count": 47,
+                "reply_count": 96,
+                "retweet_count": 209
+            },
+            "text": "BACK-TO-BACK NBA MVP \ud83c\udfc6\ud83c\udfc6\n\nWhere else does The Joker get the last laugh? \ud83c\udccf https://t.co/dke0S2rtSs"
+        },
+        {
+            "created_at": "2022-05-11T22:58:34.000Z",
+            "id": "1524524394768478208",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 80,
+                "quote_count": 1,
+                "reply_count": 30,
+                "retweet_count": 12
+            },
+            "text": ".@PKSubban1, @Arda and Chris Chelios talk Igor Shesterkin and what the New York Rangers need to do to ensure a victory tonight.\n\n\"If he's great, you know, the Rangers are going to win this game.\" https://t.co/CG0pJPwake"
+        },
+        {
+            "created_at": "2022-05-11T22:29:00.000Z",
+            "id": "1524516952491798528",
+            "labels": [
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Movie"
+            ],
+            "public_metrics": {
+                "like_count": 67,
+                "quote_count": 2,
+                "reply_count": 16,
+                "retweet_count": 13
+            },
+            "text": "The Drop is back for more playoff hockey \ud83c\udfd2\ud83d\ude4c\n\n@PKSubban1 is with @Arda and @wyshynski live to discuss his perspective on Cale Makar, the amount of goal-scoring this season and his experience being featured on \"Jackass Forever!\" https://t.co/91ppt5rO9B"
+        },
+        {
+            "created_at": "2022-05-11T21:31:45.000Z",
+            "id": "1524502547884609540",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Journalist"
+            ],
+            "public_metrics": {
+                "like_count": 1991,
+                "quote_count": 36,
+                "reply_count": 65,
+                "retweet_count": 153
+            },
+            "text": "The NBA Today crew were in a mood \ud83d\ude05\n\n@Rjeff24 was just trying to find out what was wrong \ud83d\ude02 @malika_andrews @KendrickPerkins @ramonashelburne https://t.co/wGnS0HiBoN"
+        },
+        {
+            "created_at": "2022-05-11T21:05:44.000Z",
+            "id": "1524495999397466114",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 4953,
+                "quote_count": 924,
+                "reply_count": 211,
+                "retweet_count": 482
+            },
+            "text": "Steph's strategy for tonight in Game 5 in Memphis: \n\n(via @kendra__andrews) https://t.co/6pr5vepspc"
+        },
+        {
+            "created_at": "2022-05-11T18:25:24.000Z",
+            "id": "1524455650964742144",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sport"
+            ],
+            "public_metrics": {
+                "like_count": 1817,
+                "quote_count": 61,
+                "reply_count": 35,
+                "retweet_count": 347
+            },
+            "text": "\"We're family, it's going to go beyond basketball.\"\n\nTonight, 22 years after they met, Diana Taurasi and Sue Bird are set to face each other on the court once again \ud83d\udc10 https://t.co/ZEF3KL2o3U"
+        },
+        {
+            "created_at": "2022-05-11T18:06:56.000Z",
+            "id": "1524451003747028993",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Ongoing News Story",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 191,
+                "quote_count": 45,
+                "reply_count": 87,
+                "retweet_count": 63
+            },
+            "text": "The Cleveland Guardians' game against the Chicago White Sox has been postponed because of multiple positive COVID-19 tests within the Guardians' organization, MLB announced Wednesday. https://t.co/qZMQANXJht"
+        },
+        {
+            "created_at": "2022-05-11T17:00:49.000Z",
+            "id": "1524434365429821441",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "States"
+            ],
+            "public_metrics": {
+                "like_count": 5252,
+                "quote_count": 148,
+                "reply_count": 204,
+                "retweet_count": 1130
+            },
+            "text": "The Delaware State lacrosse team is exploring legal options after their bus was stopped for driving in the left lane and searched by Georgia police in April.\n\nThe stop included at least 4 officers and a K-9 dog sniffed through the team\u2019s belongings.\n\nMore: https://t.co/ZBPFBcLP7P https://t.co/rSozYRs5XZ"
+        },
+        {
+            "created_at": "2022-05-11T14:15:01.000Z",
+            "id": "1524392637175902209",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 1630,
+                "quote_count": 47,
+                "reply_count": 78,
+                "retweet_count": 150
+            },
+            "text": "The Penguins can advance. The Rangers can survive.\n\nA Game 5 you're not going to want to miss\u203c\ufe0f\n\n\ud83d\udcfa: 7 PM ET on ESPN https://t.co/EpGNAnTOwl"
+        },
+        {
+            "created_at": "2022-05-11T13:00:24.000Z",
+            "id": "1524373861013282816",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2679,
+                "quote_count": 3,
+                "reply_count": 10,
+                "retweet_count": 158
+            },
+            "text": "All it took was 11 starts\u203c\ufe0f \n\nFormer @Angels ace @Weave1036 showed love to Reid Detmers following his first solo no-hitter Tuesday night. https://t.co/UJSfsymCXi"
+        },
+        {
+            "created_at": "2022-05-11T05:21:58.000Z",
+            "id": "1524258493661958146",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2368,
+                "quote_count": 40,
+                "reply_count": 97,
+                "retweet_count": 263
+            },
+            "text": "KINGS SURVIVE \ud83d\udc51\n\nLA holds on in OT to go up in the series! @LAKings https://t.co/4lrLFjTcML"
+        },
+        {
+            "created_at": "2022-05-11T05:09:52.000Z",
+            "id": "1524255445828964353",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 1263,
+                "quote_count": 86,
+                "reply_count": 71,
+                "retweet_count": 297
+            },
+            "text": "Bob Lanier, an eight-time NBA All-Star and member of the Naismith Memorial Basketball Hall of Fame, has died. He was 73. https://t.co/yXsZ7LAnGR"
+        },
+        {
+            "created_at": "2022-05-11T05:00:46.000Z",
+            "id": "1524253156011614210",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 286,
+                "quote_count": 6,
+                "reply_count": 25,
+                "retweet_count": 32
+            },
+            "text": "THE OILERS HAVE FORCED OT IN EDMONTON \ud83d\udea8\n\n\ud83d\udcfa: ESPN2 https://t.co/IgmgKXRw2j"
+        },
+        {
+            "created_at": "2022-05-11T04:32:18.000Z",
+            "id": "1524245991980994562",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 419,
+                "quote_count": 3,
+                "reply_count": 38,
+                "retweet_count": 41
+            },
+            "text": "McDavid is money after the faceoff \ud83d\udcb0 https://t.co/zBHVEqjU84"
+        },
+        {
+            "created_at": "2022-05-11T04:26:01.000Z",
+            "id": "1524244412942983168",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 10579,
+                "quote_count": 73,
+                "reply_count": 48,
+                "retweet_count": 1190
+            },
+            "text": "THE ROOKIE THROWS A NO-HITTER \ud83d\udea8\n\nReid Detmers is the youngest pitcher in @Angels history to throw a no-no! https://t.co/1PgsOCpMTM"
+        },
+        {
+            "created_at": "2022-05-11T04:20:17.000Z",
+            "id": "1524242966864441345",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Soccer Match",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "States"
+            ],
+            "public_metrics": {
+                "like_count": 1996,
+                "quote_count": 11,
+                "reply_count": 37,
+                "retweet_count": 142
+            },
+            "text": "The Blues battle in Minnesota to take the series lead \ud83c\udfb6 @StLouisBlues https://t.co/rdIqSpyvOZ"
+        },
+        {
+            "created_at": "2022-05-11T03:03:18.000Z",
+            "id": "1524223595978895360",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2735,
+                "quote_count": 64,
+                "reply_count": 63,
+                "retweet_count": 436
+            },
+            "text": "ALL RISE \u203c\ufe0f\n\nAaron Judge wins it with the first walk-off homer of his career \ud83d\udcaa https://t.co/CZBhZdFv80"
+        },
+        {
+            "created_at": "2022-05-11T02:43:04.000Z",
+            "id": "1524218503431086080",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Baseball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2270,
+                "quote_count": 21,
+                "reply_count": 31,
+                "retweet_count": 165
+            },
+            "text": "Mike Trout crushed this \ud83d\udcaa\n\n(via @MLB) https://t.co/cWpjPFiLc0"
+        },
+        {
+            "created_at": "2022-05-11T02:37:31.000Z",
+            "id": "1524217105079435264",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 673,
+                "quote_count": 8,
+                "reply_count": 29,
+                "retweet_count": 53
+            },
+            "text": "Kirill the Thrill nets his second of the night\u203c\ufe0f\n\n@mnwild lead 2-1! https://t.co/fOyWJR77w3"
+        },
+        {
+            "created_at": "2022-05-11T02:16:51.000Z",
+            "id": "1524211905296056336",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 757,
+                "quote_count": 16,
+                "reply_count": 41,
+                "retweet_count": 81
+            },
+            "text": "Toronto hangs on and wins Game 5\u203c\ufe0f @MapleLeafs \n\nOne win away from their first playoff series victory since 2004. https://t.co/uq3cRSgppm"
+        },
+        {
+            "created_at": "2022-05-11T01:51:10.000Z",
+            "id": "1524205441923923969",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 1221,
+                "quote_count": 5,
+                "reply_count": 43,
+                "retweet_count": 106
+            },
+            "text": "Carolina handles Boston to get back on top in the series \ud83c\udf00 @Canes https://t.co/NBOQ5FlUaq"
+        },
+        {
+            "created_at": "2022-05-11T00:44:20.000Z",
+            "id": "1524188621695328261",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 429,
+                "quote_count": 10,
+                "reply_count": 37,
+                "retweet_count": 49
+            },
+            "text": "The puck somehow jumped into the net \ud83d\ude33 @Canes https://t.co/AjqIP7qpEY"
+        },
+        {
+            "created_at": "2022-05-10T23:12:56.000Z",
+            "id": "1524165620048224256",
+            "labels": [
+                "Sport",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 621,
+                "quote_count": 12,
+                "reply_count": 43,
+                "retweet_count": 72
+            },
+            "text": "IT'S TIME FOR PLAYOFF HOCKEY\u203c\ufe0f\n\n\ud83d\udcfa: ESPN https://t.co/AJ6ataE3hG"
+        },
+        {
+            "created_at": "2022-05-10T22:59:40.000Z",
+            "id": "1524162282820878336",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 646,
+                "quote_count": 9,
+                "reply_count": 36,
+                "retweet_count": 78
+            },
+            "text": "The selection order is set for the 2022 NHL draft \ud83c\udfd2 https://t.co/xbh7aiAaJU"
+        },
+        {
+            "created_at": "2022-05-10T22:02:05.000Z",
+            "id": "1524147791228022785",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 18985,
+                "quote_count": 2090,
+                "reply_count": 1419,
+                "retweet_count": 1864
+            },
+            "text": "Breaking: Ja Morant has a bone bruise in his right knee and is doubtful for the remainder of the playoffs, the Grizzlies announced. https://t.co/A73iMhDHvn"
+        },
+        {
+            "created_at": "2022-05-10T20:27:40.000Z",
+            "id": "1524124030219001858",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "States",
+                "Sport"
+            ],
+            "public_metrics": {
+                "like_count": 7027,
+                "quote_count": 483,
+                "reply_count": 177,
+                "retweet_count": 864
+            },
+            "text": "Former Michigan State basketball star Adreian Payne was shot and killed in Orlando, Florida, early Monday while trying to help a woman engaged in a domestic dispute, according to court documents released Tuesday. \n\nMore: https://t.co/92xlTanQgr https://t.co/e4FeeqPMuj"
+        },
+        {
+            "created_at": "2022-05-10T18:15:02.000Z",
+            "hashtags": [
+                "WNBATwitter"
+            ],
+            "id": "1524090650823639040",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 860,
+                "quote_count": 272,
+                "reply_count": 538,
+                "retweet_count": 74
+            },
+            "text": "You can only bring back one \ud83e\udd14 \n\nShare you answers \ud83d\udc47  #WNBATwitter https://t.co/shcie1Dd8I"
+        },
+        {
+            "created_at": "2022-05-10T18:02:00.000Z",
+            "id": "1524087371033161729",
+            "labels": [
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2274,
+                "quote_count": 24,
+                "reply_count": 39,
+                "retweet_count": 179
+            },
+            "text": "After a 23-year career, Patrick Marleau is hanging up his skates \ud83d\udc4f\n\n\ud83c\udfd2 1,799 games played\n\ud83c\udfd2 566 goals\n\ud83c\udfd2 1,197 points\n\nLegend. https://t.co/pxUK0bo81z"
+        },
+        {
+            "created_at": "2022-05-10T17:31:28.000Z",
+            "id": "1524079689203081216",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 545,
+                "quote_count": 7,
+                "reply_count": 16,
+                "retweet_count": 59
+            },
+            "text": "\"This dude is special and he's that guy.\" \ud83d\udcaa\n\nAnfernee Simons talks about learning from Damian Lillard and what it takes to hit the big shots. https://t.co/XoPWJrp1UL"
+        },
+        {
+            "created_at": "2022-05-10T17:16:31.000Z",
+            "id": "1524075928355151872",
+            "labels": [
+                "TV Channels",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 69,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "@disneyplus Can't wait! \ud83c\uddec\ud83c\uddf7\ud83c\udf7f"
+        },
+        {
+            "created_at": "2022-05-10T17:14:30.000Z",
+            "id": "1524075420827541504",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 315,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 55
+            },
+            "text": "https://t.co/OQKB6o0y3z"
+        },
+        {
+            "created_at": "2022-05-10T17:14:12.000Z",
+            "id": "1524075343765639169",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 267,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 46
+            },
+            "text": "https://t.co/nYCDOgeGCz"
+        },
+        {
+            "created_at": "2022-05-10T17:13:52.000Z",
+            "id": "1524075259091058688",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 124,
+                "quote_count": 2,
+                "reply_count": 3,
+                "retweet_count": 11
+            },
+            "text": "https://t.co/IYF9F45GMW"
+        },
+        {
+            "created_at": "2022-05-10T17:13:26.000Z",
+            "id": "1524075149636505601",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 113,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 11
+            },
+            "text": "https://t.co/4PaLaelriT"
+        },
+        {
+            "created_at": "2022-05-10T17:13:07.000Z",
+            "id": "1524075069315575814",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 115,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 15
+            },
+            "text": "https://t.co/ZVTnWKFPNu"
+        },
+        {
+            "created_at": "2022-05-10T17:12:46.000Z",
+            "hashtags": [
+                "AANHPIHeritageMonth"
+            ],
+            "id": "1524074981281337344",
+            "labels": [
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 874,
+                "quote_count": 20,
+                "reply_count": 17,
+                "retweet_count": 189
+            },
+            "text": "From virtually no representation to becoming a dominant force within the sport \u26f8\ufe0f (THREAD)\n\n#AANHPIHeritageMonth https://t.co/z1kOSNe6gh"
+        },
+        {
+            "created_at": "2022-05-10T16:45:45.000Z",
+            "id": "1524068183111614464",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Local News"
+            ],
+            "public_metrics": {
+                "like_count": 76,
+                "quote_count": 2,
+                "reply_count": 15,
+                "retweet_count": 17
+            },
+            "text": "On the latest @debatable, @PabloTorre, @Foxworth24 and @djacoby dive in on where this Celtics-Bucks series is headed and which No. 1 seed they are more confident in: the Suns or the Heat.\n\nPlus, they react to the Tom Brady news \u203c\ufe0f\n\nhttps://t.co/hH55hEiJ6X"
+        },
+        {
+            "created_at": "2022-05-10T14:08:48.000Z",
+            "hashtags": [
+                "StanleyCup"
+            ],
+            "id": "1524028685946433538",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 908,
+                "quote_count": 10,
+                "reply_count": 38,
+                "retweet_count": 90
+            },
+            "text": "Pivotal Game Fives Galore in the #StanleyCup playoffs \ud83e\udd29\n\n\ud83d\udcfa TONIGHT | ESPN, ESPN2 https://t.co/YfNpSL040p"
+        },
+        {
+            "created_at": "2022-05-10T04:43:26.000Z",
+            "id": "1523886404987768836",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "States"
+            ],
+            "public_metrics": {
+                "like_count": 3256,
+                "quote_count": 26,
+                "reply_count": 52,
+                "retweet_count": 313
+            },
+            "text": "The Colorado @Avalanche smother the Preds and sweep the series \ud83e\uddf9 https://t.co/h6K5iTnCXb"
+        },
+        {
+            "created_at": "2022-05-10T04:18:29.000Z",
+            "id": "1523880127586660352",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 288,
+                "quote_count": 9,
+                "reply_count": 11,
+                "retweet_count": 24
+            },
+            "text": "MAKAR \u27a1\ufe0f NICHUSHKIN\n\nAvs take the lead 4-3! https://t.co/nEQUGZpMHf"
+        },
+        {
+            "created_at": "2022-05-10T04:02:47.000Z",
+            "id": "1523876178427142145",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 242,
+                "quote_count": 4,
+                "reply_count": 20,
+                "retweet_count": 22
+            },
+            "text": "Filip Forsberg\u2019s first goal of the series \u27a1\ufe0f Preds' first lead of the series\u203c\ufe0f https://t.co/jz0hWk4A0m"
+        },
+        {
+            "created_at": "2022-05-10T03:32:53.000Z",
+            "id": "1523868650675253248",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 196,
+                "quote_count": 1,
+                "reply_count": 17,
+                "retweet_count": 21
+            },
+            "text": "Trenin pots his second of the night\ud83d\udea8\ud83d\udea8\n\nWe\u2019re tied 2-2 going into the third period! https://t.co/cCDm7opijg"
+        },
+        {
+            "created_at": "2022-05-10T02:36:59.000Z",
+            "id": "1523854583331946496",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 279,
+                "quote_count": 2,
+                "reply_count": 27,
+                "retweet_count": 22
+            },
+            "text": "OFF THE IRON \ud83d\udea8\n\nWe're tied at 1! https://t.co/MuCRpqKhvx"
+        },
+        {
+            "created_at": "2022-05-10T02:04:39.000Z",
+            "id": "1523846446738411520",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 453,
+                "quote_count": 8,
+                "reply_count": 37,
+                "retweet_count": 33
+            },
+            "text": "Talk about a RIPPER \ud83d\ude33\n\nAvalanche lead 1-0 https://t.co/9wvZ97yYAY"
+        },
+        {
+            "created_at": "2022-05-10T01:40:52.000Z",
+            "id": "1523840462943145985",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2238,
+                "quote_count": 83,
+                "reply_count": 77,
+                "retweet_count": 311
+            },
+            "text": "AL HORFORD SLAM OVER GIANNIS \ud83d\ude33\n\n(via @NBA)\nhttps://t.co/Pcg3b52AeH"
+        },
+        {
+            "created_at": "2022-05-10T01:39:24.000Z",
+            "id": "1523840092644720642",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 5028,
+                "quote_count": 34,
+                "reply_count": 54,
+                "retweet_count": 382
+            },
+            "text": "The @penguins put up SEVEN goals to take a commanding lead in the series \ud83d\ude24 https://t.co/6dm7tpXEju"
+        },
+        {
+            "created_at": "2022-05-10T01:36:31.000Z",
+            "id": "1523839366853906433",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 433,
+                "quote_count": 12,
+                "reply_count": 17,
+                "retweet_count": 52
+            },
+            "text": "The VISION from Kapanen\u203c\ufe0f\n\nThe FINISH by Malkin \ud83d\ude24 https://t.co/honKfaVbDx"
+        },
+        {
+            "created_at": "2022-05-10T00:48:07.000Z",
+            "id": "1523827186188259330",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 2255,
+                "quote_count": 29,
+                "reply_count": 54,
+                "retweet_count": 222
+            },
+            "text": "The @penguins put up FIVE goals in the 2nd period \ud83d\ude33 https://t.co/ktfbcGQlaD"
+        },
+        {
+            "created_at": "2022-05-10T00:44:21.000Z",
+            "id": "1523826239903047681",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 875,
+                "quote_count": 20,
+                "reply_count": 36,
+                "retweet_count": 107
+            },
+            "text": "ELITE COMPANY \ud83d\udcc8\n\nSidney Crosby is the sixth player in NHL history to reach 200 career points in the postseason. https://t.co/NtTOdZNkue"
+        },
+        {
+            "created_at": "2022-05-10T00:34:41.000Z",
+            "id": "1523823807097618432",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Coach",
+                "Ongoing News Story"
+            ],
+            "public_metrics": {
+                "like_count": 3392,
+                "quote_count": 165,
+                "reply_count": 270,
+                "retweet_count": 311
+            },
+            "text": "Breaking: Steve Kerr tested positive for COVID-19.\n\nMike Brown will coach Game 4 for the Warriors tonight. https://t.co/eCyYHnwbA9"
+        },
+        {
+            "created_at": "2022-05-10T00:21:58.000Z",
+            "id": "1523820607355310081",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 1069,
+                "quote_count": 7,
+                "reply_count": 23,
+                "retweet_count": 101
+            },
+            "text": "TWO GOALS. 24 SECONDS \ud83d\udc27\n\n@penguins are rolling! https://t.co/7Gnf7H4gnL"
+        },
+        {
+            "created_at": "2022-05-09T23:41:58.000Z",
+            "id": "1523810539624751104",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 371,
+                "quote_count": 9,
+                "reply_count": 24,
+                "retweet_count": 32
+            },
+            "text": "TIE GAME \ud83d\udde3\n\nSidney Crosby's goal is confirmed after video review. https://t.co/n5n4aktdf8"
+        },
+        {
+            "created_at": "2022-05-09T23:29:00.000Z",
+            "id": "1523807278612287488",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Coach"
+            ],
+            "public_metrics": {
+                "like_count": 7720,
+                "quote_count": 113,
+                "reply_count": 72,
+                "retweet_count": 840
+            },
+            "text": "Wholesome moments \u2764\ufe0f\n\nMonty Williams' family surprised him with his 2021-22 NBA Coach of the Year trophy \ud83e\udd7a\n\n(via @Suns)\nhttps://t.co/LYD070xDKc"
+        },
+        {
+            "created_at": "2022-05-09T23:22:06.000Z",
+            "id": "1523805541138530304",
+            "labels": [
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Hockey Game"
+            ],
+            "public_metrics": {
+                "like_count": 342,
+                "quote_count": 2,
+                "reply_count": 23,
+                "retweet_count": 39
+            },
+            "text": "RANGERS GET ON THE BOARD \ud83d\udea8\n\nAlexis Lafreniere slots in the wrist shot \ud83d\ude24 https://t.co/KfdQ93krlg"
+        },
+        {
+            "created_at": "2022-05-09T18:34:01.000Z",
+            "id": "1523733044154220544",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 6391,
+                "quote_count": 40,
+                "reply_count": 254,
+                "retweet_count": 325
+            },
+            "text": "Chris Paul weighed in about a situation involving a fan who harassed and physically contacted members of his family during Game 4. https://t.co/L5gUftsgdv"
+        },
+        {
+            "created_at": "2022-05-09T17:13:44.000Z",
+            "id": "1523712837130104832",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "States",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 953,
+                "quote_count": 116,
+                "reply_count": 57,
+                "retweet_count": 199
+            },
+            "text": "Former Michigan State standout Adreian Payne was killed Monday in a shooting in Florida, the Orange County Sheriff's Office said. He was 31. https://t.co/yFJwrrRFFO"
+        },
+        {
+            "created_at": "2022-05-09T16:29:01.000Z",
+            "id": "1523701583338520577",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Cities",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 81,
+                "quote_count": 0,
+                "reply_count": 12,
+                "retweet_count": 13
+            },
+            "text": "Philly ties it up! \ud83c\udfc0 \n\n@PabloTorre, @Foxworth24 and @edsbs discuss who has the upper hand in the Sixers-Heat series, where the Suns stand if Chris Paul continues to struggle, Ja Morant\u2019s comments on Jordan Poole and more on the latest @debatable \u2935\ufe0f \n\nhttps://t.co/XEARgwp34B"
+        },
+        {
+            "created_at": "2022-05-09T16:14:26.000Z",
+            "id": "1523697913301508096",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sport"
+            ],
+            "public_metrics": {
+                "like_count": 362,
+                "quote_count": 1,
+                "reply_count": 7,
+                "retweet_count": 47
+            },
+            "text": "Through the highs and the lows, @MikaelaShiffrin has grown up in front of the world. \n\nShe talks about her dad's influence on her, how she's moving forward after the Beijing Olympics and mental health awareness.\n\n(via @alyroe, @OTLonESPN) https://t.co/eTeyWLdOB4"
+        },
+        {
+            "created_at": "2022-05-09T15:20:02.000Z",
+            "id": "1523684223311355904",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 1397,
+                "quote_count": 70,
+                "reply_count": 81,
+                "retweet_count": 185
+            },
+            "text": "WNBA Week 1 is in the books! \ud83d\udcaa \n\nFull power rankings \u27a1\ufe0f  https://t.co/PgFFWifQgY https://t.co/iQfxRSXnNf"
+        },
+        {
+            "created_at": "2022-05-09T15:05:40.000Z",
+            "id": "1523680608190402560",
+            "labels": [
+                "Person",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Sports Personality",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 7792,
+                "quote_count": 57,
+                "reply_count": 58,
+                "retweet_count": 610
+            },
+            "text": "Dick Vitale will be honored with the Jimmy V Award for Perseverance at the ESPYS.\n\nLast summer, Vitale underwent multiple surgeries to remove melanoma. A few months later, he was diagnosed with lymphoma, and underwent six months of chemo. This March, he was declared cancer free. https://t.co/2Ug9AgJmdx"
+        },
+        {
+            "created_at": "2022-05-09T14:36:24.000Z",
+            "id": "1523673243911168000",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Coach",
+                "Athlete",
+                "Events [Entity Service]"
+            ],
+            "public_metrics": {
+                "like_count": 246,
+                "quote_count": 82,
+                "reply_count": 60,
+                "retweet_count": 45
+            },
+            "text": "The New York Islanders fired head coach Barry Trotz on Monday, president and general manager Lou Lamoriello announced. https://t.co/tktsCkGQTB"
+        },
+        {
+            "created_at": "2022-05-09T13:14:47.000Z",
+            "id": "1523652703611760641",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 2134,
+                "quote_count": 58,
+                "reply_count": 60,
+                "retweet_count": 191
+            },
+            "text": "We\u2019ve got a Week 2 double-header coming to Monday Night Football! \ud83d\ude4c \n\n@Titans vs. @BuffaloBills | ESPN\n@Vikings vs. @Eagles | ABC https://t.co/0VvAb68hKL"
+        },
+        {
+            "created_at": "2022-05-09T12:45:10.000Z",
+            "id": "1523645250652233728",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Sports Personality"
+            ],
+            "public_metrics": {
+                "like_count": 46263,
+                "quote_count": 3989,
+                "reply_count": 2028,
+                "retweet_count": 6962
+            },
+            "text": "Back. To. Back.\n\nNikola Jokic has been voted the NBA\u2019s Most Valuable Player for a second consecutive season, sources tell @wojespn. https://t.co/dDPa13VXlq"
+        },
+        {
+            "created_at": "2022-05-09T03:20:52.000Z",
+            "id": "1523503239148498944",
+            "labels": [
+                "TV Shows",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 1537,
+                "quote_count": 176,
+                "reply_count": 305,
+                "retweet_count": 265
+            },
+            "text": "Several members of Chris Paul's family were harassed and physically contacted by a fan in the Dallas Mavericks crowd, sources told @mcten.  https://t.co/lrA1vGBaRZ"
+        },
+        {
+            "created_at": "2022-05-09T02:38:29.000Z",
+            "id": "1523492572781547520",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 14427,
+                "quote_count": 130,
+                "reply_count": 160,
+                "retweet_count": 1082
+            },
+            "text": "The Sixers notch two straight at home to tie the series at two \ud83d\ude24 https://t.co/fXvVghzb09"
+        },
+        {
+            "created_at": "2022-05-09T02:14:44.000Z",
+            "id": "1523486595793436672",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 672,
+                "quote_count": 1,
+                "reply_count": 25,
+                "retweet_count": 63
+            },
+            "text": ".@T_Cloud4 and the @WashMystics took care of business \ud83d\ude24 https://t.co/z1IzxL9ydF"
+        },
+        {
+            "created_at": "2022-05-09T00:19:26.000Z",
+            "id": "1523457582991519744",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2601,
+                "quote_count": 21,
+                "reply_count": 74,
+                "retweet_count": 211
+            },
+            "text": "Another milestone for future HOFer @SylviaFowles \u26a1 https://t.co/CChZqM2IRT"
+        },
+        {
+            "created_at": "2022-05-08T23:17:25.000Z",
+            "id": "1523441974652841984",
+            "labels": [
+                "TV Shows",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Sports Personality"
+            ],
+            "public_metrics": {
+                "like_count": 643,
+                "quote_count": 23,
+                "reply_count": 56,
+                "retweet_count": 87
+            },
+            "text": "The Sacramento Kings have agreed with Mike Brown on a four-year deal to become their next head coach, sources tell @wojespn. https://t.co/e2QkNZ1CLq"
+        },
+        {
+            "created_at": "2022-05-08T22:19:17.000Z",
+            "id": "1523427342991134720",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand"
+            ],
+            "public_metrics": {
+                "like_count": 18426,
+                "quote_count": 198,
+                "reply_count": 155,
+                "retweet_count": 1411
+            },
+            "text": "The Mavs even the series at two before heading back to the desert \ud83d\udc34 https://t.co/TwWI2q2Ax7"
+        },
+        {
+            "created_at": "2022-05-08T22:00:22.000Z",
+            "id": "1523422582086590465",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 1236,
+                "quote_count": 21,
+                "reply_count": 29,
+                "retweet_count": 113
+            },
+            "text": "Dorian Finney-Smith drained his eighth 3\ufe0f\u20e3 \u203c\ufe0f https://t.co/TMNVZO8LJz"
+        },
+        {
+            "created_at": "2022-05-08T21:50:23.000Z",
+            "id": "1523420071233605635",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2778,
+                "quote_count": 274,
+                "reply_count": 265,
+                "retweet_count": 188
+            },
+            "text": "Chris Paul has fouled out of Game 4 after this play on Jalen Brunson. https://t.co/r5ooajNzCw"
+        },
+        {
+            "created_at": "2022-05-08T21:16:28.000Z",
+            "id": "1523411536559362051",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete",
+                "Coach"
+            ],
+            "public_metrics": {
+                "like_count": 2768,
+                "quote_count": 256,
+                "reply_count": 269,
+                "retweet_count": 280
+            },
+            "text": "Ja Morant is unlikely to play in Game 4 due to the knee injury he suffered in Game 3, Grizzlies coach Taylor Jenkins said. https://t.co/WfcKxDzNXw"
+        },
+        {
+            "created_at": "2022-05-08T21:07:01.000Z",
+            "id": "1523409157826572288",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 942,
+                "quote_count": 59,
+                "reply_count": 71,
+                "retweet_count": 58
+            },
+            "text": "Chris Paul picks up his fourth personal foul BEFORE halftime \ud83d\udc40 \n\n@dallasmavs lead 68-56 at half. https://t.co/PxLQUM4884"
+        },
+        {
+            "created_at": "2022-05-08T20:14:15.000Z",
+            "id": "1523395879155105794",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Basketball Game",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 2777,
+                "quote_count": 69,
+                "reply_count": 136,
+                "retweet_count": 137
+            },
+            "text": "Luka Don\u010di\u0107 and Devin Booker have been assessed technical fouls early in Game 4. https://t.co/7dZajaRJMN"
+        },
+        {
+            "created_at": "2022-05-08T19:40:12.000Z",
+            "id": "1523387308216848385",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Local News"
+            ],
+            "public_metrics": {
+                "like_count": 573,
+                "quote_count": 5,
+                "reply_count": 21,
+                "retweet_count": 50
+            },
+            "text": "The @NHLBruins rallied off 4\ufe0f\u20e3 straight goals to take Game 4.\n\nSeries is knotted up at 2-2 \ud83e\udd1d https://t.co/tQOEGnEMPj"
+        },
+        {
+            "created_at": "2022-05-08T19:14:31.000Z",
+            "id": "1523380846782201864",
+            "labels": [
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 181,
+                "quote_count": 2,
+                "reply_count": 14,
+                "retweet_count": 29
+            },
+            "text": "The field seeks to conquer a new track in Miami \ud83c\udf34\n\n@Edmondson_F1 joins @garystriewski, @Katie_George05 and @edsbs to discuss how we got to Miami, the making of the track and key parts drivers need to pay attention to \ud83c\udfc1 https://t.co/6HiaNS3c46"
+        },
+        {
+            "created_at": "2022-05-08T18:58:38.000Z",
+            "id": "1523376850826940416",
+            "labels": [
+                "Sports Event",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Cities"
+            ],
+            "public_metrics": {
+                "like_count": 446,
+                "quote_count": 6,
+                "reply_count": 26,
+                "retweet_count": 81
+            },
+            "text": "Countdown to Miami is LIVE from the Inaugural Miami Grand Prix! \ud83c\udf7f\n\n@garystriewski, @Katie_George05 and @edsbs are all onsite to get you ready for action in the Sunshine State \u2600\ufe0f https://t.co/6HiaNS3c46"
+        },
+        {
+            "created_at": "2022-05-08T18:50:13.000Z",
+            "id": "1523374731260440576",
+            "labels": [
+                "TV Shows",
+                "Sports Event",
+                "Sport",
+                "Sports Team",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Hockey Game",
+                "Local News",
+                "Person",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 487,
+                "quote_count": 5,
+                "reply_count": 17,
+                "retweet_count": 48
+            },
+            "text": "BRAD MARCHAND \ud83d\ude24\n\n@NHLBruins take the lead! https://t.co/MeAJpypQET"
+        },
+        {
+            "created_at": "2022-05-08T18:22:45.000Z",
+            "id": "1523367820910002177",
+            "labels": [
+                "Sports Event",
+                "Person",
+                "Sport",
+                "Sports League",
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Athlete"
+            ],
+            "public_metrics": {
+                "like_count": 17610,
+                "quote_count": 345,
+                "reply_count": 205,
+                "retweet_count": 1287
+            },
+            "text": "A lot of star power in one photo \u2b50 @ESPNF1 \n\n(via @TomBrady) https://t.co/vRaSpt5TWA"
+        },
+        {
+            "created_at": "2022-05-08T18:00:01.000Z",
+            "id": "1523362099560210433",
+            "labels": [
+                "Events [Entity Service]",
+                "Brand Vertical",
+                "Brand Category",
+                "Brand",
+                "Holiday"
+            ],
+            "public_metrics": {
+                "like_count": 923,
+                "quote_count": 3,
+                "reply_count": 16,
+                "retweet_count": 60
+            },
+            "text": "Mother's Day double-header \ud83e\udd29 \n\n\ud83d\udcfa 8 and 10 PM ET on ESPN2 https://t.co/zTQ2P4zCgF"
+        }
+    ],
+    "user_id": "2557521",
+    "user_mentions": {
+        "1014747557745037314": 1,
+        "1089636617973915648": 1,
+        "1149189683080912896": 2,
+        "1155315098": 1,
+        "1161801640254615552": 1,
+        "1179535310465748992": 1,
+        "1188960778092732416": 1,
+        "1195401748149657600": 1,
+        "1197647584040497154": 1,
+        "120154937": 1,
+        "12378512": 1,
+        "1247086073903058944": 1,
+        "1278547412362108928": 1,
+        "1301253127618797569": 1,
+        "1353699792573095937": 1,
+        "1354879387456466945": 1,
+        "1356472827084480512": 1,
+        "1361685620893057026": 1,
+        "1369498530": 1,
+        "1390766010861555718": 1,
+        "1431413459850203136": 1,
+        "1435642500950249474": 1,
+        "143844079": 1,
+        "1445228298691387399": 2,
+        "1448331639856193537": 1,
+        "1449131540735213572": 1,
+        "1449742496356085761": 1,
+        "1450977024827346951": 1,
+        "1452495496921038849": 1,
+        "1455627401736691718": 1,
+        "1458994686": 1,
+        "146592611": 2,
+        "1470792632867733514": 1,
+        "1479051998502735875": 1,
+        "1481728536503279620": 1,
+        "148828676": 1,
+        "1490420621196464130": 1,
+        "1499195367681937415": 1,
+        "1503386106351472645": 1,
+        "1503914782692462593": 1,
+        "1504500668664623105": 1,
+        "1507839652660592645": 1,
+        "1518747525154578432": 2,
+        "1518977175977926657": 1,
+        "1519713782720831489": 1,
+        "1520435006660878338": 1,
+        "1521266785118728192": 1,
+        "1521419477052796929": 1,
+        "1522518453264998401": 1,
+        "1523334580886982657": 1,
+        "1524436671382630400": 1,
+        "1524770970275352576": 1,
+        "1565927989": 1,
+        "1713639121": 1,
+        "172777752": 1,
+        "211840173": 1,
+        "21614512": 1,
+        "2276936227": 1,
+        "2340200022": 1,
+        "247139652": 2,
+        "247186259": 1,
+        "25434551": 1,
+        "264464645": 1,
+        "272515375": 1,
+        "27543441": 1,
+        "278318494": 2,
+        "281537297": 1,
+        "2841146601": 1,
+        "3000889942": 1,
+        "3045521913": 3,
+        "3332739135": 1,
+        "345617001": 1,
+        "35941174": 1,
+        "36565461": 1,
+        "382070926": 1,
+        "4101000976": 1,
+        "451857526": 1,
+        "455260287": 1,
+        "46330560": 1,
+        "499530683": 1,
+        "59457712": 1,
+        "59625263": 1,
+        "632918207": 1,
+        "633114359": 1,
+        "705035175877476352": 1,
+        "709533685": 1,
+        "81235352": 1,
+        "838957159152922624": 1,
+        "867466358925266944": 1,
+        "944826531150516224": 1
+    },
+    "user_metrics": {
+        "followers_count": 40133567,
+        "following_count": 402,
+        "listed_count": 60016,
+        "tweet_count": 129602
+    }
+}

@@ -9,9 +9,11 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 
 
 
-def main():
-  with open('../samples/output.json') as json_file:
-      data = json.load(json_file)
+def comm_analyze(data):
+
+  # Preparing the raw data
+  # with open('../samples/output.json') as json_file:
+  #     data = json.load(json_file)
 
 
   # C1: Labels and metric correlation
@@ -269,9 +271,6 @@ def main():
   final_output["newest_10_followers"] = newest10followers
   final_output["oldest_10_followers"] = oldest10followers
 
-  final_json = json.dumps(final_output, indent = 4)
-  with open("comm_output.json", "w") as f:
-    json.dump(final_output, f, indent = 4)
+  # final_json = json.dumps(final_output, indent = 4)
 
-
-main()
+  return final_output
