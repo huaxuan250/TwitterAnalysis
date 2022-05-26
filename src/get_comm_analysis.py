@@ -1,32 +1,22 @@
-import pandas as pd
-import json
-import numpy as np
 from transformers import pipeline
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
+from transformers import pipeline
+from collections import Counter
+nltk.download('vader_lexicon')
 
 
-
-
-
-def comm_analyze(data):
-
-  # Preparing the raw data
-  # with open('../samples/output.json') as json_file:
-  #     data = json.load(json_file)
-
-
-  # C1: Labels and metric correlation
+def analyze_label(data):
   label2engage = {}
   for tweet in data["tweets"]:
     
-    #calculating engagement: simple sum:
+    if "labels" not in tweet:
+      continue
+
     simpleSum = 0
     for metric, count in tweet["public_metrics"].items():
       simpleSum += count
     
-    
-    #record the frequency:
     for label in tweet["labels"]:
 
       if label in ['Brand Vertical', 'Brand Category', 'Events [Entity Service]']:
@@ -44,12 +34,9 @@ def comm_analyze(data):
     labelFreq = labelFreq[-3:]
   labelFreq = labelFreq[::-1]
 
-  #C2
-  from transformers import pipeline
-  classifier = pipeline("text-classification",model='bhadresh-savani/distilbert-base-uncased-emotion', return_all_scores=True)
-  nltk.download('vader_lexicon')
+  return label2engage, labelFreq
+def analyze_polarity(data):
   sia = SentimentIntensityAnalyzer()
-
   tweets = data["tweets"]
   pos, neg, comps = [], [], []
   polar_tag = [0, 0, 0]
@@ -69,15 +56,12 @@ def comm_analyze(data):
     else:
       polar_tag[2] += 1 # neu
 
-
-
   most_pos = tweets[pos.index(max(pos))]["id"]
   most_neg = tweets[neg.index(max(neg))]["id"]
-  most_pn = [most_pos, most_neg]
-
   comp_score = sum(comps)/len(comps)
 
-  #C3
+  return most_pos, most_neg, comp_score, polar_tag
+def analyze_timeperiod(data):
   hour2engagement = {}
   for tweet in data["tweets"]:
     date = tweet["created_at"]
@@ -122,9 +106,10 @@ def comm_analyze(data):
       period2engage["early evening"] += freq
     elif hour in [20,21,22]:
       period2engage["late evening"] += freq
-
-  #C4:
-  top3 = {}
+  
+  return period2engage
+def analyze_sentiments(data):
+  classifier = pipeline("text-classification",model='bhadresh-savani/distilbert-base-uncased-emotion', return_all_scores=True)
   tweets = data["tweets"]
   sentFreq = {}
   for tweet in tweets:
@@ -148,10 +133,8 @@ def comm_analyze(data):
 
   sents = sents[::-1]
 
-
-  # C5
-  from collections import Counter
-
+  return sents, sentFreq
+def analyze_hour(data):
   hours = []
   for tstamp in data["timeline"]:
     date = tstamp["created_at"]
@@ -171,24 +154,14 @@ def comm_analyze(data):
 
   top3Hours = top3Hours[::-1]
 
-
-  #c7
-  # print(labelFreq)
-
-  # C8
+  return top3Hours, hoursFreq
+def analyze_zealousfan(data):
   user2mentions = data["user_mentions"]
   max_freq = max(user2mentions.values())
   most_interacted = [user for user in user2mentions.keys() if user2mentions[user] == max_freq]
-  # print(most_interacted)
-
-  #c9
-  followers = data["followers"]
-  longest_follower = followers[-1]
-
-
-  # c10: Most popular Tweet
-  bestTweetId = None
-
+  return most_interacted
+def analyze_clouts(data):
+  # DO IT FOR THE VINE
   id2clout = {}
   for tweet in data["tweets"]:
     
@@ -201,15 +174,40 @@ def comm_analyze(data):
   idFreq = sorted(id2clout.keys(), key = lambda kv: id2clout[kv])
   mostPopular = idFreq[-1]
 
+  return mostPopular, idFreq
+
+def comm_analyze(data):
+
+  # C1 C7:
+  label2engage, labelFreq = analyze_label(data)
+
+  # C2
+  most_pos, most_neg, comp_score, polar_tag = analyze_polarity(data)
+
+  # C3
+  period2engage = analyze_timeperiod(data)
+
+  # C4:
+  sents, sentFreq = analyze_sentiments(data)
+
+  # C5
+  top3hours, hoursFreq = analyze_hour(data)
+
+  # C8
+  most_interacted = analyze_zealousfan(data)
+
+  #c9
+  longest_follower = data["followers"][-1]
+
+  # c10: Most popular Tweet
+  mostPopular, idFreq = analyze_clouts(data)
+
   # A
   newest10followers = data["followers"][10:]
   oldest10followers = data["followers"][-10:]
 
   # A
   top3tweets = idFreq[-3:]
-
-
-
 
   '''
   Final Json Construction
@@ -221,8 +219,8 @@ def comm_analyze(data):
   final_output["topic_engagement"] = label2engage
 
   # C2: Most Positive and negative
-  final_output["most_positive_tweet"] = most_pn[0]
-  final_output["most_negative_tweet"] = most_pn[1]
+  final_output["most_positive_tweet"] = most_pos
+  final_output["most_negative_tweet"] = most_neg
 
   # C3: Time Engage Correlation
   final_output["time_engagement"] = period2engage
@@ -235,7 +233,7 @@ def comm_analyze(data):
 
   # C5: Top 3 Hours:
   activeHours = {}
-  for hour in top3Hours:
+  for hour in top3hours:
     activeHours[hour] = hoursFreq[hour]
   final_output["active_hours"] = activeHours
 
