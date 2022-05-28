@@ -48,3 +48,37 @@ def get_metrics(data):
     follower_metrics = {'followers': metrics['followers_count'], 'following': metrics['following_count']}
 
     return account_metrics, follower_metrics
+
+### Arguments: data JSON
+### Returns: three most common labels
+def get_labels(data):
+    label2engage = {}
+
+
+    for tweet in data["tweets"]:
+
+        #calculating engagement: simple sum:
+        simpleSum = 0
+        for metric, count in tweet["public_metrics"].items():
+            simpleSum += count
+
+        #record the frequency:
+        for label in tweet["labels"]:
+
+            if label in ['Brand Vertical', 'Brand Category', 'Events [Entity Service]']:
+                continue
+
+            if label not in label2engage:
+                label2engage[label] = simpleSum
+            else:
+                label2engage[label] += simpleSum
+
+    labelFreq = sorted(label2engage.keys(), key=lambda kv: label2engage[kv])
+    if len(labelFreq) < 3:
+        labelFreq = labelFreq
+    else:
+        labelFreq = labelFreq[-3:]
+
+    labelFreq = labelFreq[::-1]
+
+    return labelFreq
