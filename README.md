@@ -6,4 +6,4 @@
 
 ## Structure
 1. At root directory, type `python src/comm_api.py TWITTER_USERNAME`
-2. `src/comm_api.py` will create a local .json file called `comm_output.json` at where you ISSUE THE PYTHON COMMAND, in this case, the root directory
+2. `src/YOURTEAM_api.py` will create a local .json file called `YOURTEAM_output.json` at where you ISSUE THE PYTHON COMMAND, in this case, the root directory
